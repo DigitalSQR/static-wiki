@@ -1,0 +1,117 @@
+total 16
+drwxr-xr-x  22 carl  staff   704 Apr 15 20:36 Global Goods
+-rw-r--r--   1 carl  staff  3061 Apr 15 20:12 ReadMe.md
+-rw-r--r--   1 carl  staff     0 Apr 15 20:43 filelist.txt
+drwxr-xr-x   5 carl  staff   160 Apr 15 20:38 follow-up
+drwxr-xr-x  45 carl  staff  1440 Apr 15 20:37 main
+-rw-r--r--   1 carl  staff  3061 Apr 15 20:12 main-page.md
+
+./Global Goods:
+total 416
+drwxr-xr-x  37 carl  staff   1184 Apr 15 20:37 GG_tools
+-rw-r--r--   1 carl  staff   3838 Apr 15 20:12 about-global-goods.md
+-rw-r--r--   1 carl  staff     97 Apr 15 20:12 active-global-goods.md
+-rw-r--r--   1 carl  staff  17434 Apr 15 20:12 approved-global-goods.md
+-rw-r--r--   1 carl  staff   1329 Apr 15 20:12 becoming-a-global-good.md
+-rw-r--r--   1 carl  staff   2811 Apr 15 20:12 digital-square-global-goods-and-digital-public-goods.md
+-rw-r--r--   1 carl  staff   4431 Apr 15 20:12 digital-square-global-goods.md
+-rw-r--r--   1 carl  staff  57697 Apr 15 20:12 digital-square-investments-in-global-goods.md
+-rw-r--r--   1 carl  staff    743 Apr 15 20:12 gg-community-meetings.md
+-rw-r--r--   1 carl  staff  11788 Apr 15 20:12 global-good-agreement-process.md
+-rw-r--r--   1 carl  staff    125 Apr 15 20:12 global-good-community.md
+-rw-r--r--   1 carl  staff    146 Apr 15 20:12 global-good-investment-process.md
+-rw-r--r--   1 carl  staff  16715 Apr 15 20:12 global-goods-and-vaccinations.md
+-rw-r--r--   1 carl  staff  35559 Apr 15 20:12 global-goods-community.md
+-rw-r--r--   1 carl  staff   7507 Apr 15 20:12 global-goods-guidebook.md
+-rw-r--r--   1 carl  staff   2630 Apr 15 20:12 global-goods-list.md
+-rw-r--r--   1 carl  staff    263 Apr 15 20:12 green-lit-global-goods.md
+-rw-r--r--   1 carl  staff   2917 Apr 15 20:12 historic-global-goods.md
+-rw-r--r--   1 carl  staff   1135 Apr 15 20:12 mapping-of-global-goods.md
+
+./Global Goods/GG_tools:
+total 384
+-rw-r--r--  1 carl  staff  4537 Apr 15 20:12 android-fhir-sdk.md
+-rw-r--r--  1 carl  staff  9018 Apr 15 20:12 bahmni.md
+-rw-r--r--  1 carl  staff  9383 Apr 15 20:12 commcare.md
+-rw-r--r--  1 carl  staff  4188 Apr 15 20:12 community-health-toolkit.md
+-rw-r--r--  1 carl  staff  5882 Apr 15 20:12 dhis2.md
+-rw-r--r--  1 carl  staff   743 Apr 15 20:12 fhir.md
+-rw-r--r--  1 carl  staff  9535 Apr 15 20:12 geoprism-registry.md
+-rw-r--r--  1 carl  staff  2178 Apr 15 20:12 global-open-facility-registry.md
+-rw-r--r--  1 carl  staff  7193 Apr 15 20:12 gnu-health.md
+-rw-r--r--  1 carl  staff  3606 Apr 15 20:12 iaso.md
+-rw-r--r--  1 carl  staff  1988 Apr 15 20:12 ihris.md
+-rw-r--r--  1 carl  staff  1683 Apr 15 20:12 mhero.md
+-rw-r--r--  1 carl  staff  2282 Apr 15 20:12 odk.md
+-rw-r--r--  1 carl  staff  2184 Apr 15 20:12 open-boxes.md
+-rw-r--r--  1 carl  staff  4086 Apr 15 20:12 open-clinic-ga.md
+-rw-r--r--  1 carl  staff  2602 Apr 15 20:12 open-concept-lab.md
+-rw-r--r--  1 carl  staff  1374 Apr 15 20:12 opencr.md
+-rw-r--r--  1 carl  staff  2065 Apr 15 20:12 opencrvs.md
+-rw-r--r--  1 carl  staff  3271 Apr 15 20:12 openelis-global.md
+-rw-r--r--  1 carl  staff  2473 Apr 15 20:12 openeyes.md
+-rw-r--r--  1 carl  staff  3169 Apr 15 20:12 openfn.md
+-rw-r--r--  1 carl  staff  2858 Apr 15 20:12 openhexa.md
+-rw-r--r--  1 carl  staff  2562 Apr 15 20:12 openhim.md
+-rw-r--r--  1 carl  staff  2437 Apr 15 20:12 openimis.md
+-rw-r--r--  1 carl  staff  3363 Apr 15 20:12 openlmis.md
+-rw-r--r--  1 carl  staff  5747 Apr 15 20:12 openmrs.md
+-rw-r--r--  1 carl  staff  1414 Apr 15 20:12 opensrp.md
+-rw-r--r--  1 carl  staff  1166 Apr 15 20:12 product-catalog-management-tool.md
+-rw-r--r--  1 carl  staff  1559 Apr 15 20:12 rapidpro.md
+-rw-r--r--  1 carl  staff  2527 Apr 15 20:12 reveal.md
+-rw-r--r--  1 carl  staff  3057 Apr 15 20:12 santempi.md
+-rw-r--r--  1 carl  staff  2476 Apr 15 20:12 sormas.md
+-rw-r--r--  1 carl  staff  6101 Apr 15 20:12 tamanu.md
+-rw-r--r--  1 carl  staff  5849 Apr 15 20:12 tupaia.md
+-rw-r--r--  1 carl  staff  3663 Apr 15 20:13 vxnaid.md
+
+./follow-up:
+total 16
+-rw-r--r--  1 carl  staff  1082 Apr 15 20:13 linked_assets.csv
+-rw-r--r--  1 carl  staff  2437 Apr 15 20:13 missing_links.csv
+
+./main:
+total 1560
+-rw-r--r--  1 carl  staff    2205 Apr 15 20:12 board.md
+-rw-r--r--  1 carl  staff      90 Apr 15 20:12 community-resources.md
+-rw-r--r--  1 carl  staff    6565 Apr 15 20:12 conflict-of-interest-and-recusal-policy.md
+-rw-r--r--  1 carl  staff     157 Apr 15 20:12 contact-us.md
+-rw-r--r--  1 carl  staff   50758 Apr 15 20:12 covid-19.md
+-rw-r--r--  1 carl  staff     743 Apr 15 20:12 cybersecurity.md
+-rw-r--r--  1 carl  staff  327902 Apr 15 20:12 data-collection-and-analysis.md
+-rw-r--r--  1 carl  staff     565 Apr 15 20:12 demographics-of-digital-health-tools.md
+-rw-r--r--  1 carl  staff     743 Apr 15 20:12 digital-adaptation-kits-daks.md
+-rw-r--r--  1 carl  staff    6682 Apr 15 20:12 digital-health-interoperability-working-group.md
+-rw-r--r--  1 carl  staff     205 Apr 15 20:12 digital-health-maturity-model-navigator.md
+-rw-r--r--@ 1 carl  staff    4318 Apr 15 20:12 digital-infrastructure-for-verifiable-open-credentialing.md
+-rw-r--r--  1 carl  staff   19664 Apr 15 20:12 digital-square-on-fhir.md
+-rw-r--r--  1 carl  staff   18652 Apr 15 20:12 frequently-asked-questions.md
+-rw-r--r--  1 carl  staff    2187 Apr 15 20:12 gender-small-working-group.md
+-rw-r--r--  1 carl  staff     184 Apr 15 20:12 governance-overview.md
+-rw-r--r--  1 carl  staff    6507 Apr 15 20:12 governing-board-conflict-of-interest-and-recusal-policy.md
+-rw-r--r--  1 carl  staff    8242 Apr 15 20:12 governing-board-membership-policy.md
+-rw-r--r--  1 carl  staff      70 Apr 15 20:12 governing-board.md
+-rw-r--r--  1 carl  staff   19355 Apr 15 20:12 grant-solicitation-processes.md
+-rw-r--r--  1 carl  staff   14946 Apr 15 20:12 grants-and-contracts-basics.md
+-rw-r--r--  1 carl  staff     350 Apr 15 20:12 health-sustainability-advisory-group.md
+-rw-r--r--  1 carl  staff    3830 Apr 15 20:12 how-digital-square-supports-global-goods.md
+-rw-r--r--  1 carl  staff   12668 Apr 15 20:12 how-digital-square-supports-standards.md
+-rw-r--r--  1 carl  staff     743 Apr 15 20:12 interoperability-standards.md
+-rw-r--r--  1 carl  staff   15264 Apr 15 20:12 investment-review-committee-terms-of-reference.md
+-rw-r--r--  1 carl  staff    1188 Apr 15 20:12 investment-review-committee.md
+-rw-r--r--  1 carl  staff   13031 Apr 15 20:12 market-maturity-methodology.md
+-rw-r--r--  1 carl  staff    8157 Apr 15 20:12 membership-policy.md
+-rw-r--r--  1 carl  staff   73956 Apr 15 20:12 minutes-from-global-goods-calls.md
+-rw-r--r--  1 carl  staff    3821 Apr 15 20:12 navigator-for-digital-health-capability-models.md
+-rw-r--r--  1 carl  staff    4623 Apr 15 20:12 openhie-testing-harness-and-test-framework.md
+-rw-r--r--  1 carl  staff     435 Apr 15 20:12 partner-resources.md
+-rw-r--r--  1 carl  staff    1869 Apr 15 20:12 peer-review-committee-membership-application-and-selection-process.md
+-rw-r--r--  1 carl  staff   15028 Apr 15 20:12 peer-review-committee-membership-policy.md
+-rw-r--r--  1 carl  staff    3879 Apr 15 20:12 peer-review-committee.md
+-rw-r--r--  1 carl  staff     143 Apr 15 20:12 procurement-processes.md
+-rw-r--r--  1 carl  staff    8115 Apr 15 20:12 shelf-readiness.md
+-rw-r--r--  1 carl  staff      98 Apr 15 20:12 soliciations.md
+-rw-r--r--  1 carl  staff   22811 Apr 15 20:12 solicitations.md
+-rw-r--r--  1 carl  staff   11155 Apr 15 20:12 terms-of-reference.md
+-rw-r--r--  1 carl  staff    1467 Apr 15 20:13 what-are-product-suites.md
