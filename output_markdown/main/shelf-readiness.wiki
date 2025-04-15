@@ -1,0 +1,92 @@
+=What is meant by the term “Shelf-Ready”?=
+
+A "shelf-ready software global good " provides those who evaluate and implement digital health global goods with the confidence that the product meets the described functions, is quality assured and includes all the necessary information and tools needed to evaluate, deploy, test, implement and operationalize the global good. Shelf-ready software is designed to be interoperable using appropriate open data exchange standards.
+
+A "shelf-ready" software global good:
+* has a comprehensive set of versioned, up to date documentation for different target audiences.
+* can demonstrate evidence of the quality assurance processes and testing for all the main functions and feature sets.
+* provides information about the open standards that are supported or on the development roadmap and describes how it aligns with the OpenHIE architecture.
+* is easily deployed, can be validated as having been correctly deployed, and provides resources for developers, implementers and end users that support easier, faster and more effective use of the software.
+* has been scanned for security vulnerabilities.
+
+Digital Square describes three tiers of shelves aligned with the OpenHIE architecture, namely: (i) Business Domain Services, (ii) Metadata Management/Registry Services and (iii) Point of Service applications.
+
+[[File:Shelf Ready.png]]
+
+==The Shelf Readiness Evaluation Matrix==
+
+This matrix may be used to perform an assessment of software across several key areas, to provide an indication of the current state of shelf-readiness, areas where improvements may enhance shelf-readiness and a means of evaluating progress towards shelf-readiness.   The matrix includes the indicator and sub-indicator definitions and a self-assessment tool that produces scores for each indicator.
+
+'''To use the self-assessment tool on the second tab, please use [https://docs.google.com/spreadsheets/d/1ffeYtHUBFrV0BQw--keF7eGJf9P_XnOGeoFe8OpIcw8/edit#gid=618104506 this link] to make your own copy in Google Sheets and then you will be able to change the ratings in column D and see your scores reflected.  You can also download this tool and edit in Excel but you will not see the gauges in row 1 in this format.'''
+
+
+<googlespreadsheet width="100%" height="800" style="width: 100%">1ffeYtHUBFrV0BQw--keF7eGJf9P_XnOGeoFe8OpIcw8</googlespreadsheet>
+
+==Shelf-readiness and the global goods maturity model==
+
+Shelf-ready software show a high level of maturity across the [https://wiki.digitalsquare.io/index.php/What_are_Global_Goods#Maturity_Model global goods maturity model]. While high scores across all dimensions are ideal, achieving the levels indicated below are prioritized:
+
+{| style="border-style: solid; border-width: 3px" class="wikitable"
+| style="width: 30%;" | '''Global Utility'''
+| style="width: 30%;" | '''Community Support'''
+| style="width: 30%;" | '''Software Maturity'''
+|-
+| Digital Health Interventions (High)
+||
+Software Roadmap (Medium)
+||
+Technical Documentation (Medium)
+|-
+| Source Code Accessibility (High)
+||
+User Documentation (Medium)
+||
+Software Productization (Medium)
+|-
+|
+||
+Multi-lingual Support (Medium)
+||
+Interoperability & Data Accessibility (Medium)
+|-
+|
+||
+||
+Security (Medium)
+|-
+|
+||
+||
+Scalability (Medium)
+|-
+|}
+
+==Shelf-readiness Indicators==
+
+===Installation and deployment=== 
+Software tools and technologies follow international industry conventions to support enterprise installation and deployment patterns and should also strive to support the Instant OpenHIE deployment and configuration requirements, including: i) containerisation approaches that are harmonised with Instant OpenHIE; ii) Development of synchronization tools (e.g., OpenHIM mediators) between the software tool and metadata registries (facility, client, terminology) using appropriate IHE profiles of HL7 FHIR.; iii) Scripted configurations and data sets (as required) to showcase the functionality of base use cases; iv) Existing documentation that allows implementers to validate that the initial installation of the tool is as per expected to support IQ (including expected state of successful installation, installation reports validating all services are operational, initial system check tests to support successful and correct installation, etc.)
+
+=== Quality assurance and testing=== 
+Shelf-ready software shows empirical evidence of quality assurance practices to validate both the safety and functionality of the tool. There should be documented consistent evidence that the software meets the functional requirements and is also built as expected. Shelf-ready tools have a documented testing strategy that covers all major risk areas and business critical functions and include testing strategies to mitigate failure in these areas. Testing strategy should be operationalized in a testing framework that is applied against the tool in a repeatable manner and the QA plans and reports, as well as available indicators outlining the level and coverage of testing, should be available for review by both technical and non-technical audiences. Shelf ready software should strive to support the Installation Qualification (IQ), Operational Qualification (OQ), and Performance Qualification (PQ) of software validation during implementation, that demonstrates its readiness for safe and effective use.
+
+===Product information and documentation=== 
+Shelf-ready tools provide software product information and documentation that cater to both technical and non-technical target audiences. Product information includes a summary of the value proposition and major functions of the tool, serving as a concise reference document for decision makers. Product documentation for shelf-ready goods is comprehensive, covering all aspects needed to support an effective and safe implementation and sustainable operational use of the tool. Product documentation includes developer documentation, implementer documentation, administrator guides, end user guides and operation manuals. See the third tab of the Shelf Readiness Matrix above for examples.
+
+===Alignment with OpenHIE Architecture and open standards=== 
+Shelf-ready software tools are categorised according to the OpenHIE architecture framework (business domain service, registry/metadata service, point-of-service , interoperability layer) and adhere to the clearly defined data exchange patterns and flows. Software is aligned to the OpenHIE architecture and facilitates the required interactions to support the key use-cases that the software is designed for. For example, patient oriented point of service systems should be able to register and query patients and their demographic data with a client registry and should be able to synchronize health facility lists with a facility registry.
+
+=== Alignment with DevOps guidelines===  
+Shelf-ready software is aligned with industry-wide DevOps guidelines, providing guidance on factors to consider when deploying solutions. This may include considerations for a migration path from local hosting to international cloud services. Shelf-ready global goods provide a change management guideline for the transition from local data centers to cloud and take into account the need to harmonize on a common approach to DevOps across digital health tools.
+
+=== Security=== 
+Shelf-ready software shows evidence of good security practices, including having a documented security policy, security assessments and security measures in place, and has undergone vulnerability testing.
+
+==IQ,OQ,PQ Validation Framework==
+
+Software that is shelf ready should strive to support the Installation Qualification (IQ), Operational Qualification (OQ), and Performance Qualification (PQ) system validation framework. This framework is used to validate implementations in these key areas: 
+*that the infrastructure is sound, 
+*that the software has been correctly installed, 
+*that the software meets the specified requirements,
+*that the system, people and SOPs are able to function in the environment as intended.  
+
+This showcases the software readiness for safe and effective use.

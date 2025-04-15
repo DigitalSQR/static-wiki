@@ -1,0 +1,4 @@
+<div class="articleCategoryList">{{#ifexpr: {{#len: {{{links}}}}} > 0 
+      | {{#arraymap:{{{links}}}|,|x|[[x | x]]|<nowiki />}}
+      | No resources
+  }}</div>

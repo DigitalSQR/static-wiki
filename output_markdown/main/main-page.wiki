@@ -1,0 +1,82 @@
+__NOTOC__= Welcome to the Digital Square Wiki! =
+Digital Square is a digital health marketplace (or 'square') where supply and demand come together to accelerate health equity. We connect health leaders with the resources necessary for digital transformation. Digital Square is housed at PATH, and supported by USAID, the Bill & Melinda Gates Foundation, and a consortium of other donors. For more Information visit our [https://digitalsquare.org website here.]
+
+This wiki serves as a platform for technical audiences to obtain resources and information related to Digital Square's investments in global goods and other areas.
+
+{{Introbox|content=* '''How to use our Wiki:'''
+* '''1. As a software developer, you may be interested in:''' The work that Digital Square does to support and advocate for standards. You can also learn more about HL7 FHIR from our FHIR Webinar series.  [[How Digital Square supports standards| Click here]]
+* '''2. As an innovator, you may be interested:''' Learning more about the requirements for becoming a global good and how to apply for global goods status.  [[Becoming a Global Good| Click here]]
+* '''3. As an implementor or donor, you may be interested in:''' Finding out more about the approved global goods that are available. [[Active Global Goods| Click here]]}}
+
+== What we do ==
+
+Digital health technology is at the core of modern, equitable health care systems. When designed and employed effectively, systems can seamlessly exchange information, leading to improved clinical decisions and outcomes, care coordination, and operational efficiency. This interoperability is made possible through health data standards for digital technologies, which ensure data is uniformly and efficiently exchanged across systems. Digital Square supports the global digital health community, including country governments, in understanding, aligning, and applying these standards.
+
+Learn more about how [[How Digital Square_supports standards|Digital Square supports Standards]]
+
+=== Governance ===
+
+[[Peer Review Committee | Peer Review Committee((.button-1))]]
+[[Investment Review Committee | Investment Review Committee((.button-1))]]
+[[Health-Sustainability Advisory Group | DIAL((.button-1))]]
+
+=== Investors & Partners ===
+
+[https://digitalsquare.org/partners Digital Square Partners & Funders((.button-1))]
+[https://www.usaid.gov USAID((.button-1))]
+[http://www.gatesfoundation.org BMGF((.button-1))]
+
+== Global Goods ==
+
+Digital Square Global Goods are digital health tools which are open source (FOSS), have no barrier to access for services or available under open content licenses etc, are supported by an anchor organization/strong community, have a clear governance structures, have been deployed at scale, are used across multiple countries, have demonstrated effectiveness, are designed to be interoperable, and are on a continuum towards sustainability for the tool/service.
+{{BoxColumn3
+|link1=[[About Global Goods|View]]
+|header1=About '''Global Goods'''
+|content1=Learn more about what Global Goods are and how Digital Square is involved
+|link2=[[Active Global Goods|View]]
+|header2=Active '''Global Goods'''
+|content2=See all currently supported open source Global Goods
+|link3=[[Becoming a Global Good|View]]
+|header3=Become a '''Global Good'''
+|content3=Learn how the solicitations and funding of Global Goods resources work
+}}
+
+== Solicitations ==
+
+
+[[Solicitations#Open_Solicitations | Open Solicitations((.button-1))]]
+[[Solicitations#Closed_Solicitations | Closed Solicitations((.button-1))]]
+
+== Featured in our Community Resources ==
+
+<div class="articlebox-holder"><!-- do not remove -->
+
+{{Articlebox
+|type=Webinar
+|title1=OpenFN implementation in LMICs
+|date = December 2, 2022
+|languages = English
+|description1 = In this session, Digital Square hosts UNICEF and OpenFN, an integration Platform as a Service (iPaaS) and a suite of open source extract, transform, and load, data-integration, and interoperability tools used to automate workflows and the exchange of information across and within systems in a secure, stable, and scalable manner. OpenFn team shares their experience working with UNICEF and the Government of Thailand to migrate sensitive data to cloud infrastructure. Learn about major takeaways from Thailand’s implementation of OpenFn SaaS, using a security checklist when planning for integration rollout, factors to consider regarding managed hosting vs. local deployment, and key features of OpenFn Lightning, an upcoming release. Digital Square technical security architect addresses data security considerations and recommendations for governments and global goods. 
+|resources1=[https://wiki.digitalsquare.io/images/2/2a/OpenFn_Presentation_-_Security_During_Govt_Implementations.pdf Find the slides here],[https://youtu.be/cWCQit9gxZk Watch the recording]
+|header1 = Resources
+}}
+{{Articlebox
+|type=Webinar
+|title1=Understanding Reveal implementation in LMICs: A case study of Kenya, Senegal, and Zambia
+|date = November 10, 2022
+|description1 = Digital Square has launched the global goods open mic webinar series, a platform for our global goods partners to share their implementation journey in LMICs, working with country governments, donors, implementers, and health workers to deliver patient-centered healthcare. In this first session, we host Akros, who has spearheaded the development and community around Reveal, a digital global good that uses spatial intelligence to drive the delivery of life-saving interventions to the last mile. Akros shares its work with multiple countries and donors to apply geospatial data to plan and deliver health campaigns and routine services, demonstrates the use of Reveal, and showcases use cases summarizing geospatial data activation across the spectrum from low-tech paper maps to higher-tech navigation and delivery in Kenya, Senegal, and Zambia. 
+|resources1=[https://drive.google.com/file/d/1LN83Ect2rc-P2vpOk27VivTk6SKxfNnN/view?usp=share_link  Find the slides here],[https://youtu.be/kYrsO_4cAZw Watch the recording]
+}}
+{{Articlebox
+|type=Events
+|title1=Global Goods Innovators Summit 2023
+|date = November 10, 2023
+|description1 = GGIS is an annual convening of the global goods community–a group of digital health experts representing over 50 organizations from around the world committed to advancing the development, adoption, and reuse of digital health tools known as global goods. The goal of the event was to provide members of the community with a forum through which to connect, learn, and further build the global goods ecosystem. 
+|resources1=[https://digitalsquare.org/blog/2023/7/5/connection-innovation-flourish-at-global-goods-innovators-summit  Read the article],
+}}
+
+</div><!-- do not remove -->
+
+== Have any questions? ==
+
+For any questions regarding this wiki and any inclusions, please [[All pages | contact us here.]]

@@ -1,0 +1,208 @@
+__TOC__
+Digital Square practice is to pursue competitive solicitation processes to facilitate Digital Square outgoing agreements, wherever possible. A competitive process provides capable entities the opportunity to submit applications in a fair and transparent process for a committee to evaluate applications and select the successful applicant(s). In order to foster competition in alignment with Initiative expectations, Digital Square will release three types of solicitations to support programmatic objectives: <ref> For more information on what we do, please visit [https://digitalsquare.org/ our website]</ref>
+ 
+: 1. Requests for Applications (RFAs)<ref> For more information on vernacular, please review grants and contracts basics [https://wiki.digitalsquare.io/index.php/Grants_and_Contracts_Basics]</ref> 
+: 2. Open Application Process (OAP)
+: 3. Open Requests for Application (ORFAs)
+
+The selection of the successful candidate(s) and the final funding decision(s), inclusive of an allocated award amount(s), may be made by the investor or the Digital Square [[Board]] (Board). This determination is made prior to solicitation release and will depend on:
+
+: A. Whether the investor has specific business requirements attached to the funding opportunity. This may include the time frames for which funding is available or the need to coordinate with other investments.<ref> OAP Notice Step 7A in this document outlines the process whereby the funder maintains the investment decision.</ref> 
+: B. Whether the investor elects to use Digital Square’s Investment Review Committee through the open application process (OAP) and relinquish the funding decision to the [[Board]].<ref> OAP Notice Step 7B in this document outlines the process whereby the funder relinquishes an investment decision to the Governing Board [[Investment Review Committee]].</ref> 
+
+To review active RFAs, navigate to [http://digitalsquare.org/solicitations Digital Square’s solicitations website].
+For more information on the overall process for selected applicants, please review the [[Global Good Agreement Process]].
+
+:: [[File:Grant Solicitation Types.png|600px]]  
+
+==Types of solicitations==
+
+===Request for Application (RFA)===
+An RFA will result in a grant to support programmatic objectives. Investors may want to engage Digital Square in a particular thematic or program-focused area; in these cases, will facilitate a release of an RFA. 
+
+The following is a description phase and steps of an RFA process:
+{| style="border-style: solid; border-width: 4px" class="wikitable"
+| style="width: 20%;" | '''Step #: Summary'''
+| style="width: 60%;" | '''Description'''
+|- 
+| style="text-align: center" colspan="2" | '''''Preparation Phase'''''
+|-
+| Step 1: Solicitation preparation || Digital Square works with the investor to refine the scope of work for the solicitation, including the timeline. 
+An RFA is appropriate if the selected applicant will have its performance measured against programmatic objectives; responsibility for programmatic decision-making; and responsibility for adherence to funder requirements. An RFA will result in Digital Square issuing a subagreement. For active RFAs, [http://digitalsquare.org/solicitations visit the solicitations page of the Digital Square website].
+A solicitation will include:
+:1 Basis for why the solicitation needs to be done.
+:2 Information to which the applicant’s scope of work and cost proposal must comply to be considered for selection.
+:3 Basis and criteria for which the applicant will be fairly evaluated, scored, and decisions made.
+:4 Terms and conditions that the applicant will be required to abide by if selected.
+:5 Process for applicant queries. 
+|- 
+| style="text-align: center" colspan="2" | '''''Application Phase'''''
+|-
+| Step 2: Release Solicitation   || Digital Square issues the RFA on the solicitation page of Digital Square’s website and media communications platforms (social media and mailing lists) and interested applicants will apply in accordance with the details provided in the RFA. 
+|- 
+| style="text-align: center" colspan="2" | '''''Review and Investment Phase'''''
+|-
+| Step 3: Determine evaluation committee || In collaboration with the investor, Digital Square will establish an evaluation committee to review the RFA. The minimum standard for an evaluation committee is that it must include: 
+:1. An odd number of evaluators <ref> Evaluators may be from one or more entities </ref>(i.e., at least 3 people).
+:2. Two of the evaluators must be people from Digital Square, one each from the technical and operational teams. Representation from both the technical and operations teams will bring an operational view to the evaluation in addition to the technical perspective.
+:3. An investor may elect to be part of the evaluation committee or assign delegates. <ref> An investor may elect to include as many or as few people as they want on the evaluation committee. They may be a voting member or may not be; this is up to their own discretion.</ref> 
+Evaluation committee members must disclose any conflicts of interest, to the program contact, to ensure there is no selection bias.
+|- 
+| Step 4: Evaluation Committee review || The evaluation committee reviews applications according to evaluation criteria and scores submissions based on the RFA.
+|- 
+| Step 5: Evaluation Committee Review Meeting || Evaluation committee meets to discusses their review and scores, and a recommendation is made. If the funder is part of the evaluation committee step 6 is skipped.
+|-
+| Step 6: Funder review || Digital Square compiles the applications, budget, and breakdown of the evaluation committee and provides them to the investor who makes the decision for funding. 
+|-
+| Step 7: Board notification || Digital Squares notifies the [[Board]] of the funder evaluation and funding decision. This step will occur during routine [[Board]] communications. 
+|-
+| Step 8: Award || The result of the funder decision and evaluation committee feedback is communicated to the applicants. 
+|-
+|}
+
+===Open Application Process (OAP)===
+Digital Square also provides an iterative open application process (OAP) that gives applicants the opportunity to find collaborators and provide and receive feedback from peers. Digital Square’s global good team facilitates a regular OAP solicitation referred to as a “Notice.” A single Notice may issue multiple calls for funding (with respective RFAs) in accordance with investor roadmaps and may pool investor funding. Notice calls are delineated by particular thematic or program-focused areas. A Notice follows preparation through the application phase (steps 1-4) but the review & investment stage includes the engagement of a Peer Review Committee and Investment Review Committee, see steps 5B-8B.
+
+The following outlines the steps & timelines of an open application process:
+
+{| style="border-style: solid; border-width: 3px" class="wikitable"
+| style="width: 20%;" | '''Step #: Summary'''
+| style="width: 60%;" | '''Description'''
+| style="width: 20%;" | '''Approximate Timeline'''
+|- 
+| style="text-align: center" colspan="3" | '''''Preparation Phase'''''
+|-
+| Step 1: Solicitation preparation || Digital Square works with the investor(s) to secure funding and refine the scope of work for the solicitation. 
+Once the funding amount is determined and the scope of work finalized, Digital Square will finalize the call for applications. 
+|| 
+|- 
+| style="text-align: center" colspan="3" | '''''Concept Note Phase'''''
+|-
+| Step 2: Concept note development and community review  || Digital Square issues a call for applications, and applicants upload concept notes to Digital Square's public-facing [https://applications.digitalsquare.io/ open application platform]. In the first few weeks, as outlined by the solicitation, applicants will submit concept notes. Before the final submission, other applicants and/or other stakeholders in the community may provide feedback, comments, and suggestions, as well as identify potential areas for collaboration if the early draft of the concept note is published on the platform. Digital Square encourages an agile approach of development with early publication of draft concept notes to the platform and applicants are encouraged to edit and respond to community feedback, on their concept note, during this time Following this the final version of the concept note must be submitted and applicants must use the [https://wiki.digitalsquare.io/images/e/ee/Concept_Note_Template_FINAL_2021.pdf concept note template].
+|| 4 weeks
+|- 
+| Step 3: Digital Square review of concept notes ||  Following the concept note review, Digital Square (comprised of the technical and operational team representatives) assesses concept notes to ensure alignment with the initiative vision and funding objectives identified in the open application process. Digital Square eliminates concept notes that are not strategically aligned with the above. 
+Digital Square identifies a set of short-listed concept notes based on the open application process criteria and emails applicants who are eligible to advance to the application phase.
+|| 2 weeks 
+|- 
+| style="text-align: center" colspan="3" | '''''Application Phase'''''
+|-
+| Step 4: Technical application co-creation, comment period, and application finalization || Using feedback received in the Concept Note Phase, applicants will begin preliminary application development. 
+Applicants must use the [https://wiki.digitalsquare.io/images/0/0b/Technical_Application_Template_FINAL.doc technical application template] and post an application iteration on the [https://applications.digitalsquare.io/ open application platform] in the first 2 weeks.
+Applicants will be able to request interim reviews of their applications. Only one review may be requested from Digital Square, and unlimited reviews from the community are allowed.
+Using feedback, applicants revise the [https://wiki.digitalsquare.io/images/0/0b/Technical_Application_Template_FINAL.doc technical application] technical application, develop a budget and budget narrative, and submit these to the Digital Square [https://applications.digitalsquare.io/ open application platform]. Applicants must use the provided technical application, budget, and budget narrative templates.
+The budget and budget narrative are not shared publicly on the platform. Commenters see only the high-level summary budget provided in the technical application.
+At the conclusion of this step, Digital Square will restrict the ability to upload new content to the [https://applications.digitalsquare.io/ open application platform].
+|| 2 weeks 
+|-
+| style="text-align: center" colspan="3" | '''''Review and Investment Phase'''''
+|-
+| Step 5A: Evaluation committee review
+ 
+
+
+'''or'''
+
+
+
+Step 5B: Peer Review Committee (PRC) review 
+ || Digital Square compiles the applications and budgets and provides them to the evaluation committee for evaluation.
+
+
+
+'''or'''
+
+
+
+The [[Peer Review Committee]] reviews applications according to the [https://wiki.digitalsquare.io/images/9/92/Prioritization_Framework-July2021-final_revision.pdf Prioritization Framework], notice scope of work technical requirements and evaluates applications as green-, amber-, or red-lit per the [[Peer Review Committee Membership Policy]]. Green-lit applications are recommended for funding immediately; amber-lit applications are recommended for future funding or further exploration; red-lit applications do not fully meet the selection standards/criteria. 
+The [[Peer Review Committee]] sees only the high-level summary budget provided in the technical application. Proprietary information including salaries, indirect rates, or other factors are not shared with anyone outside of the investor and Digital Square.
+ || 2 weeks
+|-
+| Step 6A: Digital Square compilation
+
+
+'''or'''
+
+
+
+Step 6B: Digital Square OAP recommendation
+ || Digital Square compiles the evaluation provided by the evaluation committee by clustering the applications into thematic areas for investor review. 
+
+
+
+'''or'''
+
+
+
+Digital Square compiles the evaluation provided by the [[Peer Review Committee]] by clustering the applications according to the [[https://wiki.digitalsquare.io/images/9/92/Prioritization_Framework-July2021-final_revision.pdf Prioritization Framework]] for [[Investment Review Committee]] review and assigning values based on green, amber, or red light scoring. 
+Digital Square creates an investment package recommendation of the highly scored applications, as collated from the [[Peer Review Committee]] reviews and synthesized into a single scoring metric that assigns numerical values to the color associated to the proposals, for the [[Investment Review Committee]] based on the funding round objectives, investor priorities, and Digital Square vision.
+ || 1 week
+
+
+
+
+
+1 week
+
+|-
+| Step 7A: Funder review and Board notification
+
+
+                                     
+'''or'''
+
+
+
+Step 7B: [[Investment Review Committee]] review 
+ || The investor makes the funding decision.
+Digital Square notifies the [[Board]] of the investor evaluation and funding decision. This step will occur during routine [[Board]] communications.
+
+
+
+'''or'''
+
+
+
+Digital Square presents the applications, high-level budget summary, [[Peer Review Committee]] feedback within the [[https://wiki.digitalsquare.io/images/9/92/Prioritization_Framework-July2021-final_revision.pdf Prioritization Framework]], and Digital Square recommendation to the [[Investment Review Committee]].
+The [[Investment Review Committee]] evaluates whether to approve the funding packages and reserves the right to modify the recommendation at their discretion. The recommendation is made to the Digital Square board for ratification and final approval. 
+ || 1 week
+
+
+
+
+
+1 week
+
+|-
+| Step 8A: Award Phase 
+
+
+
+
+'''or'''
+
+
+
+
+Step 8B: Award Phase
+ || The results of investor funding decisions are communicated to the submitters. Upon applicant request, [[Peer Review Committee]] feedback shall be shared with the submitters.
+Funding decisions are contingent on investor approval.
+
+
+
+'''or'''
+
+
+
+Digital Square shares the funder decisions as voted on by the [[Board]] with applicants. Upon applicant request, [[Peer Review Committee]] and [[Investment Review Committee]] feedback shall be shared with the applicant.
+Funder decisions are contingent on investor approval.
+
+
+
+ ||
+|}
+
+:::[[File:OAP Summary.png|700px]]
+
+===Open Request for Application (ORFA)===
+Digital Square provides a transparent solicitation process by requiring applicants to publicly post technical applications on our [https://applications.digitalsquare.io/ open application platform]. The process follows the RFA process in table 1 with the exception of: in step 2, the solicitation release, the RFA will request the applicant to publicly post its’ technical application on the open application platform. The cost application detail will remain confidential; the budget and budget narrative are not shared publicly on the platform.

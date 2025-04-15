@@ -1,0 +1,57 @@
+The following is a list of the global goods that form the global goods community categorized by the different types of global goods.  
+
+===Software===  
+
+A mature digital health software global good is software that is Free and Open Source Software (FOSS), is supported by a strong community, has a clear governance structure, is funded by multiple sources, has been deployed at significant scale, is used across multiple countries, has demonstrated effectiveness, is designed to be interoperable, and is an emergent standard application. 
+
+Under this category, we have 36 global goods that are part of the global goods community.
+
+{| cellpadding=5"
+|[https://github.com/google/android-fhir Android FHIR SDK]|| [https://en.m.wikibooks.org/wiki/GNU_Health GNU Health] || [https://www.openclientregistry.org/ OpenCR] || [https://smartregister.org/ OpenSRP]
+|-
+|[https://www.bahmni.org/ Bahmni] || [https://www.bluesquarehub.com/iaso/ Iaso] || [https://www.opencrvs.org/ OpenCRVS] || [http://productcatalog.io/ Product Catalog Management Tool]
+|-
+|[https://dimagi.com/commcare/ CommCare] || [http://www.ihris.org/ iHRIS] || [https://openelis-global.org/ OpenELIS Global] || [https://community.rapidpro.io/ RapidPro]
+|-
+|[https://communityhealthtoolkit.org/ Community Health Toolkit] || [http://www.mhero.org/ mHero] || [https://openfn.org/ OpenFn] || [http://www.revealprecision.com/ Reveal]
+|-
+|[https://divoc.egov.org.in/ Digital Infrastructure for Verifiable Open Credentialing (DIVOC)] || [https://getodk.org/ ODK] || [https://www.bluesquarehub.com/openhexa/ OpenHexa] || [https://help.santesuite.org/product-overview/santesuite-products/master-patient-index-santempi SanteMPI]
+|-
+|[http://dhis2.org/ DHIS2] || [https://openeyes.apperta.org/ OpenEyes] || [http://openhim.org/ OpenHIM] || [http://www.sormas.org/ SORMAS]
+|-
+|[https://hub.everwell.org/dashboard/overview Everwell Hub] || [https://sourceforge.net/projects/open-clinic/ Open Clinic GA] || [http://www.openimis.org/ OpenIMIS] || [https://www.beyondessential.com.au/products/tamanu/ Tamanu]
+|-
+|[https://terraframe.atlassian.net/wiki/spaces/GGR/overview Geoprism Registry] || [https://openconceptlab.org/ Open Concept Lab] || [https://openlmis.org/ OpenLMIS] || [https://tupaia.org/ Tupaia]
+|-
+|[http://www.openfacilityregistry.org/ Global Open Facility Registry] || [http://www.openboxes.com/ OpenBoxes] || [https://openmrs.org/product/ OpenMRS] || [https://github.com/johnsonandjohnson/vxnaid/wiki Vxnaid]
+|-
+|}
+
+'''''Digital Square has developed a software maturity model to help track the changes in the community'''.''
+
+===Content=== 
+A mature digital health '''content''' global good is a content artifact that is freely accessible (having no financial or other barrier to access) and is published under an open license,  is supported by an anchor organization/strong community, serves a well bounded health domain, is utilized at scale, is used across multiple countries, has demonstrated effectiveness, and is seen as an emergent standard content artifact. 
+
+{| cellpadding=5"
+|[https://wiki.ohie.org/display/SUB/Lab%2BInformation%2BSystems%2BCommunity Laboratory Information System COP]
+|-
+|[https://www.digitalhealthatlas.org/en/-/ Digital Health Atlas] 
+|-
+|}
+
+''This list of global goods and the accompanying maturity model are to be updated after the completion of Notice G1. Check back again soon.''
+
+===Service=== 
+A mature digital health '''service''' global good is service that is freely accessible (having no financial or other barrier to access), is supported by an anchor organization/strong community, have a clear governance structures, is utilized at scale, is used across multiple countries, has demonstrated effectiveness, is designed to be interoperable, and is an emergent standard service. 
+
+{| cellpadding=5"
+|[https://healthsites.io/ Healthsites] 
+|-
+|}
+
+''This list of global goods and the accompanying maturity model are to be updated after the completion of Notice G2. Check back again soon.''
+
+===See Also=== 
+*[[Global Goods Guidebook]]  
+*[[Mapping of Global Goods]]   
+*[https://digitalpublicgoods.net/registry/ Digital Public Goods Registry]

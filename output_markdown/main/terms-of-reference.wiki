@@ -1,0 +1,106 @@
+
+
+
+The following are the Terms of Reference for the Digital Square [[Board]].
+
+==Context==
+Digitally enhanced health systems have the ability to empower individuals and communities in unprecedented ways, as well as dramatically increase the quality and efficiency of service delivery. Unfortunately, the promise of digital health has not been fully realized and efforts to scale programs and technologies have largely been unsuccessful. The three core barriers to maximizing the potential of digital technologies to improve health outcomes are lack of coordinated funding aligned to government priorities; lack of support for, and use of, existing open source technologies (global goods) that could be reused or adapted; and lack of regional leadership and capacity.
+
+==Digital Square==
+Digital Square is a new way to do development. Our approach is to tackle the barriers that prevent digital technologies and systems from scaling. Digital Square’s aim is that countries are empowered to develop sustainable national digital infrastructures, supported by coordinated investments so that governments and decision-makers can access the information they need, when they need it, to ensure better health data and health outcomes for all. 
+In order to achieve this vision, Digital Square will conduct activities to: 
+* Improve coordination of investors and increase alignment and coordination in the digital health community.
+* Increase adoption and reuse of digital health global goods.
+* Enhance leadership capacity in low-and middle-income countries for managing regional and country digital health systems.
+
+== Purpose of the Board==
+The purpose of the Board is to:
+* Champion the vision of Digital Square and recruit individuals and institutions who share this vision. 
+* Support the Digital Square Management Team in securing resources to actualize the vision and strategy.
+* Guide and advise the Digital Square Management Team in managing Digital Square’s work.
+* Make final decisions about Digital Square investments based on the Investment Review Committee’s(IRC’s)recommendations including input from the Peer Review Committee (PRC).
+
+==Responsibilities==
+The responsibilities of the Board are to:
+* Advocate for and promote Digital Square’s work with other global initiatives at regional and national levels, including within their own organizations.
+* Provide oversight to the strategic direction of Digital Square, as well as advise on major strategic changes.
+* Make decisions about the investments of Digital Square based on recommendations from the IRC.
+* Individual Board Members may be called upon for their expertise in specific issues.
+
+==Expectations of Board Members==
+In addition to the above responsibilities, Digital Square envisions that the Board Members will engage in the realization of Digital Square’s vision and strategy through the following:
+
+===Engagement===
+All Members must commit to acting as the critical point of connection between Digital Square and the institution, organization, or sector they represent. Members are charged with bringing the perspectives and concerns of their organization and/or associated stakeholders to bear in Board discussions. They must be willing to act as ambassadors and advocates for Digital Square and to represent Digital Square at the highest levels. 
+* Ambassadors of Digital Square: Alignment within the donor and digital health communities—as well as key leaders in non-health sectors—is crucial to the success of Digital Square. Board Members should actively advocate with the organizations, networks, and industries of which they are members in order to align with the mission and activities of Digital Square. This can include making financial and in-kind contributions, forming partnerships on events and awareness-raising efforts, and ensuring that Digital Square’s work, including global goods, is on global agendas for the next era in digital health and development. 
+* Fundraising: Board Members have a responsibility to ensure that Digital Square stays on its financial trajectory. Board Members should support the financial sustainability of Digital Square by proactively engaging in fundraising efforts and using connections with their various networks to garner additional financial support for Digital Square.
+
+===Attendance===
+Members are required to attend all web-conference and in-person meetings of the Board. Attendance will be kept with the meeting minutes.
+
+===Act in good faith===
+Subject to their respective roles, Members will act in good faith in the best interests of Digital Square. 
+
+===Conflict of interest===
+All Members will abide by Digital Square's Conflict of Interest and Recusal Policy.
+
+===Fulfillment of obligations===
+A Board Member who does not fulfill his/her responsibilities as described in this Policy or misses two meetings without reasonable explanation will be asked by the Chair to resign. If the Board Member refuses to resign, a vote will be taken on the removal of the Member from the Board.
+
+===Resignation=== 
+A Member may resign at any time by giving notice in writing to the Chair and the Executive Director.
+
+==Benefits of Board membership==
+By virtue of the Board’s leadership role in shaping the future of digital health, Digital Square Board Members will benefit from:
+* A voice in guiding Digital Square’s strategy and execution.
+* A vote in Board investment decisions on global goods.
+* Access to a new network of thought leaders in digital health.
+
+==Composition==
+The Board will consist of a target of 9 Members, with a ceiling of 13 Members, plus a non-voting Chair. Members will be chosen both for their individual expertise and leadership qualities and for their ability to represent the interests of stakeholders. For this reason, should a Member change organizational affiliation or shift positions or portfolios within his/her organization, the Board Chair has the right to ask for that Member’s resignation in order to maintain the intended balance of representation on the Board. Although the final composition of the Board will be based on the qualities and diversity of potential members, it is planned to include:
+* Philanthropic donors and investors.
+* Technical experts from the digital health product development field.
+* Civil society.
+* Private sector.
+* United Nationsrepresentation.
+* Independent advisors.
+* Ministry of Health representation.
+
+PATH will act as Chair of the Board. Each Member will be allotted one vote, except for the Chair, whose role is ex officio and does not include voting rights.
+
+==Membership==
+===List of Candidates===
+The Digital Square Management Team, with guidance from the Executive Director, existing Board Members, Chair, and other stakeholders, will prepare a list of individuals to fill the designation of Board seats.
+
+===Selection=== 
+The Executive Director will recruit Board Members who are willing to fulfill the expectations of membership on the Board
+
+==Chair==
+PATH will act as Chair of the Board. Each Member will be allotted one vote, except for the Chair, whose role is ex officio and does not include voting rights. PATH’s role as the Board Chair allows for greater facilitation of the business of the Board and ensures essential linkages for the Board to PATH’s official accountability to Digital Square investors for ensuring the success of their investments and the work of Digital Square. 
+
+The Chair will:
+* Convene and preside over each Board meeting, including approving the agenda and decision points that Board Members will make.
+* Foster and guide consensus-based decision-making by the Board. 
+* Provide due diligence on the Board membership, including ensuring that the overall composition of the Board remains balanced and effective and that Members remain appropriately engaged and review notifications on breaches of conflict of interest. 
+* Serve as one of the principal spokespersons for Digital Square, along with Digital Square’s Executive Director.
+* Provide guidance to the Executive Director of Digital Square on an as-needed basis, including guidance on bringing issues to the attention of the Board for input or decision.
+
+==Term==
+Board membership term will be three years. Member terms may be renewed by the Chair and Executive Director.
+
+==Meetings==
+There will be between two and four Board meetings each year. Meetings will be virtual (Zoom) with optional in-person attendance. There will be one in-person meeting each year, likely to be in Washington, DC; London; Seattle; or New York. Board Members are expected to participate in all meetings. In addition to the annual Board meetings, five days of engagement are anticipated—these are a mix of reading days, learning sessions, and pre-Board meetings. Adhoc calls and/or meetings may also be called by the Chair, if necessary, to discuss specific issues. Commitments will increase for those participating on subcommittees, per the terms specified in the subcommittee TOR.
+
+==Voting==
+Quorum will be two-thirds of the Board. All Board Members, except for the non-voting Chair, have one vote, and all votes are weighted equally. Decisions not reached through consensus will be made with a majority of present Members. For votes on investments, the IRC will propose funding recommendations to the Board.
+
+==Subcommittees==
+Board subcommittees will be established as required. Each subcommittee requires a non-Chair Board Member sponsor that, along with the Digital Square Management Team, is responsible for coordinating such committees and providing reports on committee activities back to the Board. The Board will approve the terms of reference for subcommittees. Subcommittees will compriseofBoard Members and delegates. Delegates will be approved by a majority Board Member vote.
+
+===The Investment Review Committee===
+In the April 2019 meeting, the Digital Square Board determined a need for a separate committee for application review and recommendations. The determination was made due to the technical nature of many of the applications and recognition that a specialized subcommittee with a digital health technical background and skill set is needed for informed approval of applications. This committee would be named the Investment Review Committee (IRC). 
+
+The roles and responsibilities for Notice scope review and approval are being transferred from the Board to the IRC. However, the Board will remain engaged. Specifically, the Board will be made aware of all Notice launches, scope of the Notices, and funding available for the Notices. The IRC will (virtually) convene to review the feedback of the PRC and Digital Square and make recommendations for funding to the Board. Digital Square will share the feedback and evaluations from the PRC and IRC, along with any investor feedback regarding the applicants (if applicable), to the Board prior to final Board approval of funding allocations. The Board will review the recommendations and vote during the Board meeting (virtual or in-person).
+
+==Contact==
+digitalsquare@path.org

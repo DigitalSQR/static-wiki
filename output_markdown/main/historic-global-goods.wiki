@@ -1,0 +1,217 @@
+=Maturity of Global Goods: Summary Table=
+This table reflects the maturity model baseline assessments and the historical reassessment of global goods funded through Digital Square. All maturity model assessments are *self-reported* by the funded organization leading the software development of the global good. For more information about global good maturity models, please contact Carl Fourie at cfourie@path.org.
+
+{| class="wikitable"
+|-
+! scope="col" | Global Good
+! scope="col" | 
+! scope="col" | Global Utility
+! scope="col" | Community
+! scope="col" | Software
+! scope="col" | Change
+|-
+|rowspan="1" style="border-bottom:solid 5px black" | [[#ODK-X|ODK-X]]
+|style="border-bottom:solid 5px black" | Baseline (July 2021)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 9
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 6
+|rowspan="1" style="border-bottom:solid 5px black"| N/A
+|-
+|rowspan="1" style="border-bottom:solid 5px black" | [[#Pharmadex|Pharmadex]]
+|style="border-bottom:solid 5px black" | Baseline (July 2021)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 8
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 10
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|rowspan="1" style="border-bottom:solid 5px black"| N/A
+|-
+|rowspan="1" style="border-bottom:solid 5px black" | [[#Healthsites|Healthsites]]
+|style="border-bottom:solid 5px black" | Baseline (March 2021)
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 6
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 8
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 8
+|rowspan="1" style="border-bottom:solid 5px black"| N/A
+|-
+|}
+
+=Maturity by Global Good=
+
+==Healthsites==
+
+{| class="wikitable"
+|-
+| Category
+|Update (March 2021)
+|-
+! scope="col" colspan="3" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7abab" | Low
+|-
+! scope="col" colspan="3" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Community Governance
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | User Documentation
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="3" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Scalability
+|style="background-color:#96d68f" | High
+|-
+|}
+
+==ODK-X==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (July 2021)
+|-
+! scope="col" colspan="3" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Country Strategy
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="3" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Community Governance
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="3" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Productization
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#f7e5ab" | Medium
+|-
+|}
+
+
+==Pharmadex==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (July 2021)
+|-
+! scope="col" colspan="3" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="3" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Community Governance
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="3" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Security
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Scalability
+|style="background-color:#f7e5ab" | Medium
+|-
+|}

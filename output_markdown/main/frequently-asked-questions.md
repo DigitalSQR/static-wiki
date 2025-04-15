@@ -1,0 +1,475 @@
+## General
+
+**Who or what is Digital Square?**
+
+  
+Digital Square is a partnership of the world's leading digital health
+experts from 40+ organizations working together with countries to
+strengthen digital health systems. Digital Square offers a new way to
+invest in digital health, providing a space where countries and members
+of the global community can gather to think big and do good, together.
+By convening government officials, technological innovators, donor and
+implementation partners, and others across borders and boundaries in
+Digital Square, we can grow possibility into reality by focusing on our
+common goal: connecting the world for better health. Digital Square
+works in three key ways:
+
+:\* Co-investment: We coordinate investments in digital health to
+maximize the impact of every dollar spent.
+
+:\* Global goods: We scale tools and technologies that can be adapted to
+different countries and contexts.
+
+:\* Digital market readiness: We create digital market readiness by
+building capacity with governments, local technology developers, and
+health workers.
+
+  
+For more information, navigate to [Digital Square
+website](http://www.digitalsquare.org).
+
+**What do you mean by the term
+\[application\]\[subaward\]\[solicitication\]?**
+
+  
+Please navigate to grants & contracts basics for an introduction to
+vernacular.
+
+**How does Digital Square fund global goods? What type of funding is
+available?**
+
+  
+Digital Square funding comes from United States Agency for International
+Development (USAID), the Bill & Melinda Gates Foundation, and other
+donors who co-invest into Digital Square. Please navigate to the global
+goods procurement processes for more information. Subawards will be
+issued to successful applicants from PATH. Please review grants &
+contracts basics or
+<a href="Global_Good_Investment_Process" class="wikilink"
+title="Global Good Investment Process">Global Good Investment
+Process</a> for more information.
+
+**What should my organization expect if our application is funded for
+investment?**
+
+  
+Please review the
+<a href="Global_Good_Investment_Process" class="wikilink"
+title="Global Good Investment Process">Global Good Investment
+Process</a> for more information.
+
+**What is a consortium? Does my organization have to be in one?**
+
+  
+A consortium is a group with a common goal in which resources are pooled
+to conduct activities among the group to achieve a common objective. In
+the spirit of reducing duplication of work and fragmentation, Digital
+Square encourages collaboration in the concept note and full application
+phases by identifying a consortium, although this is not a requirement.
+Note, in the full application, a consortium must have a lead
+organization who will submit the application. Consortia members must be
+listed as subawards or consultants in the detailed budget.
+
+**Does Digital Square have priority countries for global goods?**
+
+  
+No.
+
+**Does Digital Square prefer to fund global goods that meet a certain
+maturity level as assessed in the global good maturity model?**
+
+  
+No. If this changes, Digital Square will share that update.
+
+**Does Digital Square only invest in health? What about projects that
+cross into other domains?**
+
+  
+Digital Square's focus is health. If you are looking for support to your
+global good, it must be deployed to support the health sector (clients,
+providers, health system etc). Digital Square partners with the Digital
+Impact Alliance (DIAL) who offers [catalytic
+grants](https://www.osc.dial.community/) to support digital services
+beyond the health sector.
+
+## Open Application Process
+
+**What is the difference between the Open Proposal Process & Platform
+(OPP&P) and Open Application Process (OAP)?**
+
+  
+The OPP&P was the first iteration of Digital Square's Open Application
+Process. Beginning with Notice D, Digital Square updated the term to
+Open Application Process, which incorporates the process and platform,
+rather than differentiating between the two. The Open Application
+Process continues to use the online platform where applicants publicly
+post concept notes and applications, providing applicants the
+opportunity to find collaborators and provide and receive feedback from
+your peers.
+
+**What is the Open Application Process?**
+
+:\* An open application process promotes the collaborative development
+of applications for investments in digital health global goods. The open
+application process is hosted on an online platform.
+
+:\* Concept notes and applications will be publicly posted, giving
+applicants the opportunity to find collaborators and provide and receive
+feedback from your peers. There are 3 phases with a total of 10 steps in
+the open application process. Please navigate to global goods
+procurement processes for more information. The first phase related to
+concept notes. The second phase related to the full application
+development. The last phase is related to application review and award.
+The first two phases occur in the [OAP
+platform](https://proposals.digitalsquare.io/).
+
+**Is there an open solicitation for the Notice?**
+
+  
+Please review the [OAP platform](https://proposals.digitalsquare.io/)
+for links to current solicitation(s).
+
+**How do I provide feedback on concept notes?**
+
+  
+Visit our [OAP platform](https://proposals.digitalsquare.io/) and create
+an account. This will you allow to provide comments and feedback on the
+posted applications.
+
+**At what point in the process do I provide feedback (or expect to
+receive feedback)?**
+
+:\* In the concept note phase, you should plan to provide (and receive)
+feedback during the three weeks following the deadline for concept note
+submission.
+
+:\* In the second phase, full application, you should plan to provide
+(and receive) feedback during the two weeks following the preliminary
+application submission.
+
+:\* Please navigate to global goods procurement processes for more
+information.
+
+**Will my concept note and application get feedback?**
+
+  
+Digital Square facilitates a process in order for all applications to
+receive feedback. However, Digital Square does not take responsibility
+for the amount of feedback provided by other Applicants. The
+<a href="Peer_Review_Committee" class="wikilink"
+title="Peer Review Committee">Peer Review Committee</a> commits to
+reviewing all applications within a cluster per the [Prioritization
+Framework](https://wiki.digitalsquare.io/images/a/a1/Prioritization_Framework_Final_9Apr.pdf).
+
+**Where can I find information on global goods currently being funded by
+Digital Square?**
+
+  
+Please navigate to
+<a href="Digital_Square_Investments_in_Global_Goods" class="wikilink"
+title="Digital Square Investments in Global Goods">Digital Square
+Investments in Global Goods</a> for a list of approved and funded global
+goods.
+
+**Are global goods specifically software?**
+
+  
+[Global Goods](https://en.wikipedia.org/wiki/Global_public_good) are
+digital health tools that are adaptable to different countries and
+contexts. There are three types of global goods:
+
+- **Software:** A software tool that is free, open source, and used to
+  manage, analyze, or transmit health-related data, with proven utility
+  in several settings.
+- **Services:** A software tool that is used to manage, transmit, or
+  analyze health-related data that can be freely accessed as a software
+  service and adheres to open data principles.
+- **Content:** A resource, toolkit, or data standard that is available
+  under an open license and that is used to improve or analyze health
+  data management processes.
+
+Mature digital health global good software is software that is
+([usually](https://digitalprinciples.org/principle/use-open-standards-open-data-open-source-and-open-innovation/))
+Free and Open Source Software
+([FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)),
+is supported by a strong community, has a clear governance structure, is
+funded by multiple sources, has been deployed at significant scale, is
+used across multiple countries, has demonstrated effectiveness, is
+designed to be interoperable, and is an emergent standard application.
+
+For more information, please navigate to
+<a href="What_are_Global_Goods" class="wikilink"
+title="What are Global Goods">What are Global Goods</a>?
+
+**Where can I find written resources explaining specific global goods?**
+
+  
+Navigate to
+<a href="Digital_Square_Investments_in_Global_Goods" class="wikilink"
+title="Digital Square Investments in Global Goods">Digital Square
+Investments in Global Goods</a> or review the Global Goods Guidebook (to
+be launched April 2019).
+
+## Concept Note Phase
+
+**How and when do you submit concept notes for applications?**
+
+  
+Digital Square will release a solicitation as a call for applications,
+which will begin the Open Application Process Notice. The first phase
+and step of which is the Concept Note Phase. Please review the
+<a href="Global_Good_Investment_Process" class="wikilink"
+title="Global Good Investment Process">Global Good Investment
+Process</a> and [Prioritization
+Framework](https://wiki.digitalsquare.io/images/a/a1/Prioritization_Framework_Final_9Apr.pdf)
+for more information.
+
+**How often will Digital Square issue calls for applications?**
+
+  
+As often as funding permits. We anticipate up to two Notice(s) a year.
+
+**When Digital Square is ready to accept new concept notes, will you
+release guidelines or templates on how to develop them?**
+
+  
+Yes! The solicitation will detail application requirements and Digital
+Square provides templates that applicants must follow through in the
+open process, linked below:
+
+- Concept Note template
+- Full Application: Technical Application Template, Budget Template and
+  Budget Narrative template.
+
+**When proposing new concept notes, should this be done as a team or as
+individuals?**
+
+  
+In the spirit of reducing duplication of work and fragmentation, Digital
+Square encourages collaboration in the concept note and full application
+phases by identifying a consortium. Note, in the full application, a
+consortium must have a lead organization who will submit the
+application. Consortia members must be listed as subawards or
+consultants in the detailed budget.
+
+**Can my organization submit more than one concept note or
+application?**
+
+  
+Yes, provided each application is aligned with the Notice request for
+application.
+
+**Should my concept note build off of global goods that Digital Square
+currently supports?**
+
+  
+This is not necessary. Concept notes and subsequent applications should
+meet the criteria outlined in the RFA.
+
+**Must concept notes focus on interoperability?**
+
+  
+No. Not focusing on interoperability will not preclude a concept note
+from funding. However, please note systems and applications that enable
+exchange of data are in line with Digital Square's mission.
+
+**One requirement for the concept note is to confirm the global good is
+registered in the Digital Health Atlas. How do I do this?**
+
+:\* If the digital health tool is registered, please include a
+screenshot of the entry under Attachments on the OAP platform.
+
+:\* If it is currently not part of the taxonomy to register the
+software, please register by contacting Tigest Tamrat at tamratt@who.int
+and include a copy of this email under Attachments on the OAP platform.
+
+**What visibility do other submitters have into my concept note?**
+
+  
+All concept notes may be viewed by all other applicants. Digital Square
+encourages applicants to provide feedback on other concept notes and to
+look for potential collaborators during the concept note phase.
+
+**Can you explain the transition between concept note and application:
+e.g. when and how does a concept note become an application; do all
+submitted concept notes progress to the application phase; does this all
+happen on the OAP platform?**
+
+:\* The first phase is the concept note phase, the second phase is the
+application, both of which occur on the OAP platform. Concept notes
+advance to the application phase if they meet the criteria stipulated in
+the RFA. Digital Square refers to entities as applicants during the
+concept note phase and applicants during the application phase. Please
+review the global good procurement process for an overview or the OAP
+open solicitation for a specific timeline.
+
+:\* Per the [Prioritization
+Framework](https://wiki.digitalsquare.io/images/a/a1/Prioritization_Framework_Final_9Apr.pdf),
+Digital Square will asses concept notes alignment with initiative
+vision, priorities, and funding round objectives. Digital Square will
+not prevent the advancement of any concept notes into application phase
+unless they are clearly out of Digital Square's scope.
+
+**What happens if my concept note or application receives conflicting
+feedback?**
+
+  
+Digital Square does not take responsibility for crowd-sourced comments.
+Applicants should expect consistent feedback from the
+<a href="Peer_Review_Committee" class="wikilink"
+title="Peer Review Committee">Peer Review Committee</a> and a thorough
+review during Review & Investment phase. In the event of conflicting
+comments, Digital Square may discuss the feedback with the applicant to
+provide guidance in alignment with the Digital Square mission and
+mandate.
+
+## Application Phase
+
+**What visibility do other submitters have into my full application?**
+
+  
+All technical applications may be viewed by all other applicants.
+Digital Square encourages applicants to provide feedback on other
+applications. In the full application, collaborators may be identified
+in a consortium. Budget information is limited to a high-level summary
+in the technical application.
+
+**One requirement in the final phase of the process for application is
+to complete a self-assessment on the [Global Goods Maturity
+Model](https://docs.google.com/spreadsheets/d/16nZHBsb6Zjsh9T_7Fj7zvMXUspjh39CNSS76UT6WHJU/edit#gid=0).
+How do I do this?**
+
+  
+Navigate to the [Global Goods Maturity
+Model](https://docs.google.com/spreadsheets/d/16nZHBsb6Zjsh9T_7Fj7zvMXUspjh39CNSS76UT6WHJU/edit#gid=0).
+Then, save a copy of the document. You can make a copy of the Google
+sheet and submit with include a link in the technical application or as
+an Excel document.
+
+**What level of budget detail should be included in application
+budgets?**
+
+  
+The Board must have an idea of how funding will be spent. If your
+technical application includes several objective areas or workstreams,
+the budget should include the budget value for each of these objectives
+or workstreams, in addition to the full budget.The detailed budget must
+be a line item budget that includes staffing, including level of effort
+(LOE), consultants, travel, supplies, other direct costs, including
+workshops and publications, subawards, and indirect costs, as allowable.
+Please review the budget template and budget narrative template for more
+information.
+
+## Review & Investment Phase
+
+**What will the process be to ensure alignment and avoid duplicate
+health information system (HIS) investment for concept notes that will
+be re-reviewed for relevance?**
+
+  
+Part of Digital Square's mandate is to avoid this duplication. Digital
+Square is addressing this through the Peer Review Committee and Board.
+
+**What does it mean if an application is labeled green-lit, amber-lit,
+or red-lit?**
+
+:\* A green-lit application meets all criteria for investment through
+the relevant Notice. The application demonstrates a global good that
+aligns with country priorities, can adapt to different countries and
+contexts, and will scale easily across countries.
+
+:\* An amber-lit application meets at least one of the criteria for
+selection for investment and a potential risk has been identified and
+will need to be addressed by the submitters of the application.
+
+:\* A red-lit application does not meet any of the criteria for
+investment through the relevant Notice, or there is high risk identified
+in the application's ability to meet its objectives.
+
+**Who determines if an application is green-lit, amber-lit, or
+red-lit?**
+
+  
+The Peer Review Committee.
+
+**What is the process to move green-lit applications forward?**
+
+  
+Digital Square will compile green-lit and amber-lit applications and
+submit to the Board or funder to be vote on for investment during the
+review & investment phase. Once approved by the Board or funder, Digital
+Square will begin the subaward process.
+
+**What are the next steps for green-lit application(s) which do not have
+identified funding?**
+
+  
+The Board may vote to mandate Digital Square to secure funding for the
+application(s).
+
+**Will amber-lit applications that were not approved for investment by
+the Board be revisited?**
+
+  
+Applicants with amber-lit applications may submit a revised application
+during the subsequent Notice, provided it aligns with the Notice
+solicitation. Digital Square can work with submitters to improve their
+application.
+
+**Can teams revise and resubmit red-lit application(s)?**
+
+  
+Red-lit applications are out of Digital Square's scope, so we do not
+recommend resubmitting a red-lit application unless it has changed
+significantly in scope.
+
+**What if my application is approved but not yet funded or is partially
+funded? Will I need to resubmit my application in future Notice for
+funding consideration?**
+
+  
+No, all approved applications are automatically considered for funding
+in subsequent Notice(s). Digital Square advises you do not revise and
+resubmit your application.
+
+**Who sits on the Peer Review Committee?**
+
+  
+Please navigate to the Peer Review Committee.
+
+**Who is a member of the board?**
+
+  
+Please review the Board members.
+
+**How does the Board or funder select which applications will receive
+funding?**
+
+  
+The Board or funder will review Digital Square's recommendation,
+compiled from respondent feedback and PRC votes, aligned with the
+Prioritization Framework.
+
+**How will successful applicants receive Digital Square investments? Is
+this a grant or contract?**
+
+  
+Once the application is approved by the Board or funder, PATH will issue
+a subaward in alignment with the proposed scope of work. Please review
+grants & contracts basics or global goods investment process for more
+information.
+
+**What is the maximum duration of an subaward?**
+
+  
+The length of a subaward will vary depending on the scope of work,
+however, a subaward term will not exceed an end date of June 26, 2021.
+Applicants should follow guidelines presented in the Notice
+solicitation. Generally, applicants should plan for activities up to 12
+months.
+
+**Is this an entry point into a larger funding stream?**
+
+  
+Digital Square hopes this is an entry point into longer term funding and
+support, but this will depend on the specific application(s).

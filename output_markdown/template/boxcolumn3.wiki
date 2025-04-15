@@ -1,0 +1,5 @@
+<div class="column3">
+<div><h3>{{{header1|}}}</h3><p>{{{content1}}}</p>{{{link1}}}</div>
+<div><h3>{{{header2|}}}</h3><p>{{{content2}}}</p>{{{link2}}}</div>
+<div><h3>{{{header3|}}}</h3><p>{{{content3}}}</p>{{{link3}}}</div>
+</div>

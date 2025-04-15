@@ -1,0 +1,5 @@
+<div class="column3icon">
+<div><div class="imgHolder">[[File:{{{file1}}}|Digital Square]]</div><h3>{{{header1}}}</h3><p>{{{content1}}}</p></div>
+<div><div class="imgHolder">[[File:{{{file2}}}|Digital Square]]</div><h3>{{{header2}}}</h3><p>{{{content2}}}</p></div>
+<div><div class="imgHolder">[[File:{{{file3}}}|Digital Square]]</div><h3>{{{header3}}}</h3><p>{{{content3}}}</p></div>
+</div>

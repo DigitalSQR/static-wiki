@@ -1,0 +1,157 @@
+This is the Membership Policy of the Digital Square
+<a href="Peer_Review_Committee" class="wikilink"
+title="Peer Review Committee">Peer Review Committee</a>. The Peer Review
+Committee Membership Policy,
+<a href="Conflict_of_Interest_and_Recusal_Policy" class="wikilink"
+title="Conflict of Interest and Recusal Policy">Conflict of Interest and
+Recusal Policy</a>, and <a
+href="Peer_Review_Committee_Membership_Application_and_Selection_Process"
+class="wikilink"
+title="Peer Review Committee Membership Application and Selection Process">Peer
+Review Committee Membership Application and Selection Process</a> of the
+Digital Square Peer Review Committee has been approved by the Governing
+Board. Any substantive changes to the policies require board approval.
+
+## Purpose
+
+The purpose of this Membership Policy (this âPolicyâ) is to delineate
+the criteria for membership on the Peer Review Committee (the âPRCâ) of
+Digital Square. This Policy also outlines conflicts of interest and
+recusal, which may arise as part of the PRC participation in the Digital
+Square Notices. This Policy includes information on the composition of
+the PRC, roles and responsibilities of PRC Members, an overview of the
+voting process, commitment and collaboration requirements of members,
+and terms of membership.
+
+## Roles and Responsibilities of the Peer Review Committee
+
+The PRC plays a critical role as technical experts who assess the
+technical and programmatic appropriateness of submitted concept notes
+and applications through Digital Square Notices. The PRC provides
+feedback, which helps the Digital Square
+<a href="Governing_Board" class="wikilink"
+title="Governing Board">Governing Board</a> to prioritize investments in
+high-quality digital health products and services. The PRC is not a
+governing body, and its recommendations to the Governing Board are
+non-binding. Digital Square will create an investment package
+recommendation of the highly-scored applications for the Governing Board
+based on the funding round objectives, donor priorities, and Digital
+Square vision. The Governing Board makes the final decision on the
+allocation and funding of the applications in the Notice. In some cases,
+the donor will determine the funding. More information on the funding
+scenarios can be found here.
+
+The PRC is encouraged to be an advocate for Digital Square and promote,
+as appropriate, participation and engagement in the Digital Square
+Notices. PRC Members are also encouraged to offer feedback on concept
+notes and applications s during the concept note and application
+co-creation phases.
+
+PRC Members are required to review fully submitted applications against
+the Prioritization Framework. Highly rated applications aligned with the
+Prioritization Framework will be shared with the Governing Board. To
+facilitate the PRC review of applications, Digital Square will assign
+applications to PRC Members in groups for review. For each application
+reviewed, the PRC Member must submit a review form that provides
+feedback aligning with the Prioritization Framework domains which
+include impact, cost, technology, and probability of success. The PRC
+Member must also assign green-, amber-, or red-lit status for the full
+application. A green-lit application meets all criteria for investment
+through the Digital Square Notice. The application demonstrates a global
+good that aligns with country priorities, can adapt to different
+countries and contexts, and will scale easily across countries. An
+amber-lit application meets at least one of the criteria for selection
+for investment, but a potential risk has been identified and will need
+to be addressed by the submitters of the application through the Digital
+Square Notice. A red-lit application does not meet any of the criteria
+for investment through the Digital Square Notice, or there is high-risk
+identified in the applicationâs ability to meet its objectives.
+
+## Composition
+
+The PRC comprises a diverse set of the foremost leaders and thinkers in
+digital health technology including country governments, donor
+organizations, implementing organizations, technology vendors, and other
+constituencies. The PRC does not have a limit on the number of Members.
+Seats are allocated to individual members who are experts in the digital
+health field. There is no term limit. Digital Squareâs goal is for the
+PRC to be made up of a group of well-rounded members with technical
+expertise, experience implementing global goods with governments, health
+workers and clients in countries, and/or individuals who serve as
+investors in global digital health including global goods. Members must
+meet the following membership criteria:
+
+- Are recognized as experts in global health informatics, information
+  technology, software development, and/or interoperability.
+- Have expertise in regional and global digital health systems.
+- Are willing to comply with required participation as described in the
+  governance documents.
+
+## Commitment and Collaboration
+
+The success of cocreation and collaboration for Notices through the Open
+Application Process (OAP) platform is dependent on active participation
+of PRC Members and adherence to the expectations outlined in this
+document. PRC Members must agree with the roles and responsibilities
+outlined in this Policy via membership agreements.
+
+PRC Members must ensure availability and commitment to contributing time
+to participate in the Notice process, and review and score each
+application that is assigned to them. To ensure that the PRC Members are
+aware of the level of commitment for each Notice, Digital Square will
+provide details on the number of expected applications that the PRC will
+be asked to review.
+
+During the PRC Review Phase, PRC Members commit to reviewing, providing
+feedback, and scoring applications using the Digital Square Feedback
+Forms by the proposed deadlines. PRC Members commit to supporting
+Digital Square in reviewing, providing feedback, and voting for all of
+the applications in their assigned group. While it will vary by Notice,
+it is anticipated that PRC engagement during each Notice which occur
+over a three- to four-month time frame, and will range from two to five
+business days. Ad hoc meetings, reading days, and virtual communication
+will be called for as needed.
+
+PRC Members are requested to advocate for Digital Square and promote
+Notice announcements among their networks. PRC Members should have the
+willingness and commitment to engage in discussion of ideas and dialogue
+with concept note and application submitters through the OAP&P. They
+should also have a willingness to share honest and unbiased feedback and
+review of the applications with Digital Square.
+
+Finally, PRC Members must demonstrate the ability, commitment, and
+enthusiasm to act as an ambassador and advocate for the [Principles for
+Digital Development](https://digitalprinciples.org/). The Principles of
+Digital Development are a set of living guidance intended to help
+practitioners succeed in applying digital technologies to development
+programs. Subject to their respective roles, PRC Members will act in
+good faith in the best interests of the development of digital health
+global goods.
+
+## Term
+
+**Term Length**
+
+There is no maximum term length for PRC membership; however,
+representatives should plan to participate for a minimum of one year for
+continuity. Membership will be reviewed on an annual basis. Membership
+agreements will also be updated annually, as appropriate, to correspond
+with changes in the member organization or terms of reference.
+
+**Termination**
+
+A PRC Member who does not fulfill his/her responsibilities as described
+in this Policy or misses two consecutive Notice application review
+processes will be removed from the PRC at the discretion of the Digital
+Square contacts.
+
+**Resignation**
+
+An individual may resign by providing written notice to the Digital
+Square contacts
+
+## Digital Square Contacts
+
+- Carl Fourie, PRC Chair and Deputy Director cfourie@path.org.
+- Amanda BenDor, Global Goods Community Manager abendor@path.org.
+- Jackie Clark, Project Administrator jclark@path.org.

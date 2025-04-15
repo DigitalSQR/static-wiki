@@ -1,0 +1,360 @@
+# What are Approved Global Goods?
+
+Through Digital Square <a href="Procurement_Processes" class="wikilink"
+title="Procurement Processes">Procurement Processes</a> such as the Open
+Application Process, [Global
+Goods](https://wiki.digitalsquare.io/index.php/Main_Page#Global_Goods)
+are reviewed by the <a href="Peer_Review_Committee" class="wikilink"
+title="Peer Review Committee">Peer Review Committee</a>. The Peer Review
+Committee reviews applications according to the Prioritization
+Framework, notice scope of work technical requirements and evaluates
+applications as green-, amber-, or red-lit per the Peer Review Committee
+Membership Policy. Green-lit applications are recommended for funding
+immediately; amber-lit applications are recommended for future funding
+or further exploration; red-lit applications do not fully meet the
+selection standards/criteria.
+
+**A green-lit application meets all criteria for investment through the
+relevant Notice. The application demonstrates a global good that aligns
+with country priorities, can adapt to different countries and contexts,
+and will scale easily across countries.**
+
+Digital Square compiles the evaluation provided by the Peer Review
+Committee by clustering the applications according to the
+[Prioritization
+Framework](https://wiki.digitalsquare.io/images/a/a1/Prioritization_Framework_Final_9Apr.pdf)
+for <a href="Board" class="wikilink" title="Board">Board</a> review.
+Digital Square presents the applications, high-level budget summary,
+Peer Review Committee feedback within the Prioritization Framework, and
+Digital Square recommendation to the Board.
+
+These applications then receive one of three statuses from the Digital
+Square <a href="Board" class="wikilink" title="Board">Board</a>:
+
+- **Approved - Fully Funded;**
+- **Approved - Partially Funded;**
+- **Approved - Contingent on Funding.**
+
+Applications that are **Approved - Partially Funded** or **Approved -
+Contingent on Funding** are included in the Digital Square global goods
+community, including webinars, the Digital Square Basket of Services,
+and continual funding raising efforts. A list of the global goods that
+are Approved - Partially Funded or Approved - Contingent Funding can be
+found below.
+
+Digital Square continues to work closely with a diverse portfolio of
+investors, advocating for further investments in global goods. We are
+accelerating and scaling our efforts to expand resource mobilization for
+global goods and global digital health investments.
+
+Based on feedback from the community, we are improving transparency
+about which proposals are approved but not yet funded, or are partially
+funded. Digital Square is working with partners and investors to draw
+visibility to the approved global good applications, which are currently
+seeking partial or full funding.
+
+## What is Digital Square doing to seek funding for approved proposals?
+
+Digital Square continues to work closely with a diverse portfolio of
+investors, advocating for further investments in global goods. We are
+accelerating and scaling our efforts to expand resource mobilization for
+global goods and global digital health investments.
+
+Based on feedback from the community, we are improving transparency
+about which proposals are approved but not yet funded, or are partially
+funded. Our updated wiki includes a high-level overview of approved
+applications so that donors may easily find approved applications.
+Digital Square is working with partners and investors to draw visibility
+to the approved global good applications, which are currently seeking
+partial or full funding.
+
+# List of Global Goods projects that are Approved - Contingent on Funding
+
+## Child Growth Monitor
+
+- **Child Growth Monitor - A game-changing app to detect malnutrition:**
+  This investment will go towards establishing an expanded team;
+  continual IT development; field tests in two additional contexts
+  (2019-02) in order to adapt CGM for children of other ethnicities;
+  integrating the CGM in nutrition studies (beginning 2019-03);
+  preparing three pilot projects for managing acute undernutrition (by
+  2019-03); pilot projects (beginning 2019-04) with approximately
+  100,000 children; integrating CGM: (a) at ACF India; (b) with the
+  state actor Integrated -Child -Development Services (ICDS) in the
+  Indian Madhya Pradesh; (c) with the nutrition programme in refugee
+  camps with regard to emergency aid. *Amount of unfunded activities:
+  \$250,000*
+
+## HEARTH
+
+- **Strengthening and Expanding HEARTH open source tool and community:**
+  This investment will go towards further developing HEARTH, improved
+  accessibility to the growing number of implementers in Africa and
+  other low-resource countries, and grow the community of practice to
+  ensure that HEARTH effectively addresses real world challenges and is
+  more sustainable in the long term. *Amount of unfunded activities:
+  \$359,798*
+
+## Logistimo
+
+- **Scaling health worker capacity at the last mile of low-resource
+  supply chains through self-learning and community support on mobile
+  phones:** Logistimo is an open-source supply chain management platform
+  with a hosted service that enables optimal management of inventory and
+  last-mile delivery in low-resource supply chains by leveraging mobile
+  phones and cloud computing. Proposal to enable a scalable model for
+  ongoing capacity development of last-mile workers using a combination
+  of an easy-to-use self-serve, e-learning service with video content
+  that enables self-learning and capacity assessments plus community
+  interactions with peer coworkers, supervisors, or experts through an
+  online group accessible within their mobile applications, which offers
+  a sustained high-touch support. Such a group enables one to ask or
+  answer questions online, as well as share best practices. *Amount of
+  unfunded activities: \$227,740*
+
+## Lorem Ipsum for Digital Health
+
+- **Lorem Ipsum for Digital Health:** Lorem Ipsum is fictional data
+  built of anonymized data that is realistic but not real, which would
+  be used to develop dashboards and machine learning. Lorem Ipsum for
+  Digital Health will create a harmonized synthetic data generator for
+  malaria or HIV/AIDS that can be used by software developers,
+  policymakers, and researchers to improve the functionality and data
+  analysis capabilities of DHIS 2, OpenMRS, iHRIS, and related services
+  like OpenInfoMan, Global Open Facility Registry, and more. *Amount of
+  unfunded activities: \$415,495*
+
+## Medic Mobile
+
+- **Medic Mobile - Building a Community of Practice:** This investment
+  would contribute to improving documentation for configuring and
+  supporting deployments of the Medic Mobile toolkit and creating a
+  community of practice. *Amount of unfunded activities: \$156,133*
+
+## Mobile WACh
+
+- **Mobile WACh: Communication Empowering Patients and Health Care
+  Workers:** This investment will go towards creating additional
+  features to enable scaled deployments, funding in-country capacity,
+  and creating an organizational home for the tool. *Amount of unfunded
+  activities: \$582,610*
+
+## mPowering Frontline Health Worker Initiative
+
+- **Supporting the Establishment of an Organizational Home for the
+  mPowering Frontline Health Workers Initiative:** This investment will
+  provide an organizational home for the secretariat of the project to
+  further move the project along and keep it organized. *Amount of
+  unfunded activities: \$200,000*
+
+## Reveal
+
+- **Spatial Decision Support Tool for mapping, microplanning delivery of
+  health interventions (Reveal):** This investment will go towards
+  preparing the source code for easy adaptation by users, developing the
+  online portal/entry point for users, and developing documentation for
+  implementers. *Amount of unfunded activities: \$190,655*
+
+## OpenCHS
+
+- **Building an Open Child Helpline System (OpenCHS) Community of
+  Practice:** The Child Helpline System is an open-source case
+  management system that supports reporting and case management of abuse
+  cases of children through various channels of communication including
+  calls, SMS, and CHAT. Proposal to build an OpenCHS Community of
+  Practice to coordinate and consolidate contributions and efforts from
+  various partners through a virtual space for engagement, knowledge
+  sharing, and learning amongst OpenCHS implementers, developers and
+  users. *Amount of unfunded activities: \$213,410*
+
+## OpenELIS
+
+- **OpenELIS community building through documentation and participation
+  within LIS community of practice:** OpenELIS is an open-source
+  electronic laboratory information system software, used to track
+  patient testing, diagnosis, and results communication. Proposal
+  activities will contribute to improved availability of viable
+  open-source LIS that support the quality of laboratory practice in
+  LMICs. *Amount of unfunded activities: \$204,402*
+
+## OpenMRS
+
+- **Strengthening OpenMRS:** This investment will go towards improving
+  the organizational efficiency and responsiveness of the team through
+  hiring resources to lead several core activities to increase community
+  engagement, improve the software in the roadmap, expand user and
+  technical documentation, and to curate and enhance educational
+  curricula and materials. *Amount of unfunded activities: \$260,960*
+
+## Open Concept Lab
+
+- **Strengthening OCL Governance, Community, and Features in Preparation
+  for User Growth:** This investment will allow for the implementation
+  of a sustained governance model of the Open Concept Lab and allow
+  significant improvements to be made to the usability and functionality
+  of this global good, particularly for a government audience. *Amount
+  of unfunded activities: \$201,300*
+
+## Open Data Kit
+
+- **Technology for Health and Disability: making ODK 2.0 accessible:**
+  This funding will build upon the previous work on ODK 2.0 to better
+  serve the health community in emerging countries. Specifically, this
+  will go towards user research and to iteratively develop enhancements,
+  additional features, and development guidelines, and test them with
+  key partners before integration into the main ODK 2.0 code. *Amount of
+  unfunded activities: \$200,000*
+
+## Pharmadex
+
+- **Enhancement of the medicines registration application Pharmadex:**
+  Pharmadex is being used by four national medicines regulatory
+  authorities (NMRAs) to ensure they have the most updated medicines
+  available and approved for prescribing. Proposal to add features such
+  as multiple language support, user-configurable logos, and ability for
+  each country to define their own fields and variables to ensure that
+  NMRAs that have requested an application for use can easily adopt
+  Pharmadex for their country contexts. *Amount of unfunded activities:
+  \$118,738*
+
+## PlanWise
+
+- **PlanWise's Optimizing geospatial network coverage:** PlanWise is an
+  open-source software tool that uses geospatial modeling and
+  optimization techniques to make it simple for an organization to
+  understand whom they are helping and to maximize the efficiency impact
+  of their services. This proposal seeks to formalize and grow the
+  community of implementers, create and deploy a strategy for
+  replication and scaled impact, and extend PlanWise functionality to
+  fill high-priority community-identified gaps. *Amount of unfunded
+  activities: \$278,126*
+
+# List of Global Goods projects that are Approved - Partially Funded
+
+## DHIS2
+
+- **DHIS2 Community of Practice:** The remaining unfunded work will
+  support a full year of the DHIS2 COP to properly establish and
+  institutionalize the CoP into the DHIS2 community. The additional year
+  of funding support will further and solidify the CoP's place in the
+  community, meeting the demands and requirements by having dedicated
+  staff and hence ensuring sustainability. *Amount of unfunded
+  activities: \$94,175*
+
+## Healthsites
+
+- **Global Healthsites Mapping Project - Building a curated open data
+  commons of health facility data with OpenStreetMap:** The remaining
+  unfunded work includes: Enhancement of the Healthsites API to support
+  the FHIR standard and DHIS2 integration. Development of the
+  Healthsites Location Validation Index (LVI) which assesses the
+  reliability of health facility data based on Trusted User updates.
+  Internationalization and localization of the Healthsites web
+  application. Development of the Healthsites mobile application to
+  enable users to update existing health facility data in OpenStreetMap.
+  Support for campaigns, data creation and sharing in-country by
+  supporting OpenStreetMap communities. Skilling up and training local
+  champions of open health data to use the mobile
+  application.Integration with Whatsapp, SMS and voice-based surveys.
+  *Amount of unfunded activities:\$62,010*
+
+## OpenCRVS
+
+- **Strengthening the Open Civil Registration and Vital Statistics
+  (OpenCRVS) System:** The unfunded work accounts for the costs of
+  recruiting two mid-level developers plus international travel to
+  support OpenCRVS work in Bangladesh. This also includes building local
+  capacity to harness OpenHIM and Hearth for OpenCRVS. *Amount of
+  unfunded activities: \$133,037*
+
+## OpenELIS
+
+- **Integration of the OpenELIS open-source laboratory information
+  system with leading clinical and logistics information systems:**
+  OpenELIS is an open-source electronic laboratory information system
+  software used to track patient testing, diagnosis, and results
+  communication.The remaining funded is needed for the workstream
+  activity to merge the OpenELIS Global and Bahmni OpenELIS Code Bases.
+  *Amount of unfunded activities: \$80,414*
+
+## OpenHIE
+
+- **An Instant OpenHIE:** Support for building in clinical use cases
+  that show the instant OpenHIE components working together in a
+  clinical use case. *Amount of unfunded activities: \$197,324*
+
+## OpenHIM
+
+- **Strengthening and Expanding the Open Health Information Mediator
+  (OpenHIM):** The remaining unfunded work is for supporting
+  implementers and the communtity around the core tool. Activities
+  include updating and revisiting the full webpresense of the tool;
+  updating the website and community platform tools; curation for the
+  mediator library and updates to the core and common mediators. *Amount
+  of unfunded activities: \$185,238*
+
+## openIMIS
+
+- **openIMIS's open source software for health financing**: The
+  investments are in support of the re-platforming and re-architecting
+  of the software to a more modern modular approach as well as adding
+  interoperability interfaces to allow claims submission from systems
+  such as OpenMRS, Bahmni and aggregation in DHIS2. Future investments
+  include AI claims adjudication and enhancement of features to serve a
+  formal sector requirement.'''
+
+## OpenLMIS
+
+- **Advancing a collaborative, open, and growing community**
+- **OpenLMIS Community Engagement:** The remaining investment would be
+  for further support to the OpenLMIS community including Regaional East
+  and West Africa OpenLMIS workshops, East and West Africa OpenLMIS
+  roadshows, and implementer documentation such as the OpenLMIS toolkit.
+  Additional activities unfunded include community support to encourage
+  open source development on OpenLMIS through programs like Google
+  Summer of Code, Outreachy, and Social Coder.
+
+## OpenMRS
+
+- **Strengthening the OpenMRS implementer ecosystem through community,
+  quality assurance, education, and partnership:** Support for the
+  implementer ecosystem through expanded partnerships in OpenMRS country
+  implementation countries. Support for a toolkit and eLearning
+  materials for implementers. *Amount of unfunded activities: \$172,365*
+
+## OpenSRP
+
+- **Packaging OpenSRP for Scale and Community-driven National
+  Adoption:** The unfunded work is therefore the HR/staffing costs for
+  year two, as well the hosting for the platform, as seen below. It will
+  help continue the activities of managing, coordinating and promoting
+  the CoP in year two. *Amount of unfunded activities: \$1,143,540*
+
+## Open Source LIS Community of Practice
+
+- **Building an Open Source LIS Technologies Community of Practice:**
+  The remaining investment would be for supporting development of LIS
+  technolgies including software development including coding
+  conventions, and expansion for OpenLab Connect. Portion of unfunded
+  work includes development of LIS technologies. The work also includes
+  support of LIS products to enable interoperability with other systems
+  within the OpenHIE architecture. *Amount of unfunded activities:
+  \$107,155*
+
+## SORMAS
+
+- **SORMAS-MI: Surveillance Outbreak Response Management and Analysis
+  System (SORMAS) - Maturity Improvement through Community Engagement,
+  Internationalization and Applicability Enhancement:** This investment
+  would go towards hiring a community manager, increasing community
+  engagement, improving the software roadmap, expanding user and
+  technical documentation, curation and enhancement of educational
+  materials, and additional technical development of the SORMAS global
+  good.
+
+# List of Global Goods projects that are Approved - Funded
+
+See this page for a list of
+<a href="Digital_Square_Investments_in_Global_Goods" class="wikilink"
+title="Digital Square Investments in Global Goods">Digital Square
+Investments in Global Goods</a> including those that are fully funded.

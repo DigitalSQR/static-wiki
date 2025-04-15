@@ -1,0 +1,3660 @@
+=Maturity of Global Goods: Summary Table=
+This table reflects the maturity model baseline assessments and the latest reassessment of global goods funded through Digital Square. All maturity model assessments are *self-reported* by the funded organization leading the software development of the global good. For more information about global good maturity models, please contact Carl Fourie at cfourie@path.org.
+
+{| class="wikitable"
+|-
+! scope="col" | Global Good
+! scope="col" | 
+! scope="col" | Global Utility
+! scope="col" | Community
+! scope="col" | Software
+! scope="col" | Change
+|-
+|rowspan="1" style="border-bottom:solid 5px black" | [[#Android FHIR SDK|Android FHIR SDK]]
+|style="border-bottom:solid 5px black" | Baseline (Sept 2022)
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 4
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 4
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 6
+|rowspan="1" style="border-bottom:solid 5px black"| N/A
+|-
+|rowspan="5" style="border-bottom:solid 5px black" | [[#Bahmni|Bahmni]]
+|Baseline (Jan 2018)
+|style="background-color:#f7e5ab" | 4
+|style="background-color:#96d68f" | 8
+|style="background-color:#f7e5ab" | 6
+|rowspan="5" style="border-bottom:solid 5px black"| +9
+|-
+| Update (Aug 2020)
+|style="background-color:#96d68f"| 7
+|style="background-color:#96d68f" | 10
+|style="background-color:#96d68f" | 8
+
+|-
+|Update (Feb 2021)
+|style="background-color:#96d68f" | 7
+|style="background-color:#96d68f" | 10
+|style="background-color:#96d68f" | 8
+|-|-
+|-
+|Update (July 2021)
+|style="background-color:#f7e5ab; | 6
+|style="background-color:#96d68f; | 8
+|style="background-color:#96d68f; | 10
+|-
+|-|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 10
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 10
+|-|-
+|-
+|rowspan="4" style="border-bottom:solid 5px black" | [[#CommCare|CommCare]]
+|Baseline (May 2019)
+|style="background-color:#96d68f" | 10
+|style="background-color:#96d68f" | 10
+|style="background-color:#96d68f" | 9
+|rowspan="4" style="border-bottom:solid 5px black"| +1
+|-
+|Update (Jun 2020)
+|style="background-color:#96d68f" | 10
+|style="background-color:#96d68f" | 10
+|style="background-color:#96d68f" | 10
+|-
+|(July 2021)
+|style="background-color:#96d68f" | 10
+|style="background-color:#96d68f" | 10
+|style="background-color:#96d68f" | 10
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 10
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 10
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 10
+|-|-
+|-
+|rowspan="4" style="border-bottom:solid 5px black" | [[#Community Health Toolkit|Community Health Toolkit]]
+|Baseline (Jun 2018)
+|style="background-color:#96d68f" | 8
+|style="background-color:#96d68f" | 8
+|style="background-color:#f7e5ab" | 6
+|rowspan="4" style="border-bottom:solid 5px black"| +6
+|-
+|Update (Jun 2020)
+|style="background-color:#96d68f" | 9
+|style="background-color:#96d68f" | 9
+|style="background-color:#96d68f" | 8
+|-
+|Update (July 2021)
+|style="background-color:#96d68f" | 9
+|style="background-color:#96d68f" | 10
+|style="background-color:#96d68f" | 9
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 9
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 10
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 9
+|-
+|rowspan="4" style="border-bottom:solid 5px black" | [[#DHIS2|DHIS2]]
+|Baseline (Sep 2018)
+|style="background-color:#96d68f" | 9
+|style="background-color:#96d68f" | 8
+|style="background-color:#96d68f" | 8
+|rowspan="4" style="border-bottom:solid 5px black"| +5
+|-
+|Update (Mar 2020)
+|style="background-color:#96d68f" | 10
+|style="background-color:#96d68f" | 8
+|style="background-color:#96d68f" | 10
+|-
+|Update (April 2021)
+|style="background-color:#96d68f" | 10
+|style="background-color:#96d68f" | 9
+|style="background-color:#96d68f" | 10
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 10
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 10
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 10
+|-
+|rowspan="1" style="border-bottom:solid 5px black" | [[#DIVOC|DIVOC]]
+|style="border-bottom:solid 5px black" | Baseline (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 5
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 9
+|rowspan="1" style="border-bottom:solid 5px black"| N/A
+|-
+|rowspan="1" style="border-bottom:solid 5px black" | [[#Everwell Hub|Everwell Hub]]
+|style="border-bottom:solid 5px black" | Baseline (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 9
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 9
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 9
+|rowspan="1" style="border-bottom:solid 5px black"| N/A
+|-
+|rowspan="1" style="border-bottom:solid 5px black" | [[#GeoPrism Registry|GeoPrism Registry]]
+|style="border-bottom:solid 5px black" | Baseline (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 6
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 8
+|rowspan="1" style="border-bottom:solid 5px black"| N/A
+|-
+|rowspan="3" style="border-bottom:solid 5px black" | [[#GOFR|GOFR]]
+|Baseline (Jun 2019)
+|style="background-color:#f7abab" | 2
+|style="background-color:#f7e5ab" | 5
+|style="background-color:#f7e5ab" | 5
+|rowspan="3" style="border-bottom:solid 5px black"| +4
+|-
+|Update (Jun 2020)
+|style="background-color:#f7e5ab" | 5
+|style="background-color:#96d68f" | 7
+|style="background-color:#f7e5ab" | 6
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 4
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 5
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|-
+|rowspan="1" style="border-bottom:solid 5px black" | [[#GNU Health|GNU Health]]
+|style="border-bottom:solid 5px black" | Baseline (Sept 2022)
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 4
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 9
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 9
+|rowspan="1" style="border-bottom:solid 5px black"| N/A
+|-
+|rowspan="1" style="border-bottom:solid 5px black" | [[#Iaso|Iaso]]
+|style="border-bottom:solid 5px black" | Baseline (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 4
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 6
+|rowspan="1" style="border-bottom:solid 5px black"| N/A
+|-
+|rowspan="4" style="border-bottom:solid 5px black" | [[#iHRIS|iHRIS]]
+|Baseline (Oct 2018)
+|style="background-color:#96d68f" | 8
+|style="background-color:#f7e5ab" | 6
+|style="background-color:#96d68f" | 9
+|rowspan="4" style="border-bottom:solid 5px black"| -1
+|-
+|Update (Jun 2020)
+|style="background-color:#96d68f" | 8
+|style="background-color:#96d68f" | 9
+|style="background-color:#96d68f" | 9
+|-
+|Update (July 2021)
+|style="background-color:#96d68f" | 8
+|style="background-color:#96d68f" | 8
+|style="background-color:#96d68f" | 9
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 9
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 6
+|-
+|rowspan="5" style="border-bottom:solid 5px black" | [[#mHero|mHero]]
+|Baseline (Oct 2019)
+|style="background-color:#f7abab" | 2
+|style="background-color:#f7abab" | 1
+|style="background-color:#f7e5ab" | 4
+|rowspan="5" style="border-bottom:solid 5px black"| +5
+|-
+|Update (Jun 2020)
+|style="background-color:#f7e5ab" | 4
+|style="background-color:#f7abab" | 2
+|style="background-color:#f7e5ab" | 4
+|-
+|Update (Dec 2020)
+|style="background-color:#f7e5ab" | 4
+|style="background-color:#f7abab" | 3
+|style="background-color:#f7e5ab" | 4
+|-
+|Update (July 2021)
+|style="background-color:#f7abab" | 3
+|style="background-color:#f7abab" | 3
+|style="background-color:#f7e5ab" | 5
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#f7abab; border-bottom:solid 5px black" | 3
+|style="background-color:#f7abab; border-bottom:solid 5px black" | 4
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 5
+|-
+|rowspan="2" style="border-bottom:solid 5px black" | [[#ODK|ODK]]
+|Baseline (July 2021)
+|style="background-color:#96d68f" | 10
+|style="background-color:#96d68f" | 10
+|style="background-color:#f7e5ab" | 9
+|rowspan="2" style="border-bottom:solid 5px black"| 0
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 10
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 10
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 9
+|-
+|rowspan="2" style="border-bottom:solid 5px black" | [[#OpenBoxes|OpenBoxes]]
+|Baseline (July 2021)
+|style="background-color:#f7e5ab" | 5
+|style="background-color:#f7e5ab" | 5
+|style="background-color:#f7e5ab" | 4
+|rowspan="2" style="border-bottom:solid 5px black"| +1
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 5
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 5
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 5
+|-
+|rowspan="1" style="border-bottom:solid 5px black" | [[#OpenClinic GA|OpenClinic GA]]
+|style="border-bottom:solid 5px black" | Baseline (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 8
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 10
+|rowspan="1" style="border-bottom:solid 5px black"| N/A
+|-
+|rowspan="5" style="border-bottom:solid 5px black" | [[#Open Concept Lab|Open Concept Lab]]
+|Baseline (Mar 2018)
+|style="background-color:#f7e5ab" | 5
+|style="background-color:#f7e5ab" | 6
+|style="background-color:#f7e5ab" | 6
+|rowspan="5" style="border-bottom:solid 5px black"| +3
+|-
+|Update (May 2020)
+|style="background-color:#f7e5ab" | 5
+|style="background-color:#96d68f" | 7
+|style="background-color:#f7e5ab" | 6
+|-
+|Update (July 2021)
+|style="background-color:#f7e5ab" | 5
+|style="background-color:#96d68f" | 7
+|style="background-color:#f7e5ab" | 6
+|-
+|Update (Sept 2022)
+|style="background-color:#f7e5ab" | 4
+|style="background-color:#96d68f" | 7
+|style="background-color:#f7e5ab" | 6
+|-
+|style="border-bottom:solid 5px black" | Update (Jan 2023)
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 6
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|-
+|rowspan="1" style="border-bottom:solid 5px black" | [[#OpenCR|OpenCR]]
+|style="border-bottom:solid 5px black" | Baseline (Sept 2022)
+|style="background-color:#f7abab; border-bottom:solid 5px black" | 3
+|style="background-color:#f7abab; border-bottom:solid 5px black" | 2
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 5
+|rowspan="1" style="border-bottom:solid 5px black"| N/A
+|-
+|rowspan="4" style="border-bottom:solid 5px black" | [[#OpenCRVS|OpenCRVS]]
+|Baseline (Mar 2018)
+|style="background-color:#f7abab" | 0
+|style="background-color:#f7abab" | 1
+|style="background-color:#f7abab" | 3
+|rowspan="4" style="border-bottom:solid 5px black"| +13
+|-
+|Update (May 2020)
+|style="background-color:#f7e5ab" | 4
+|style="background-color:#f7e5ab" | 5
+|style="background-color:#96d68f" |10
+|-
+|-
+|Update (July 2021)
+|style="background-color:#f7e5ab" | 6
+|style="background-color:#96d68f" | 7
+|style="background-color:#96d68f" | 7
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#f7abab; border-bottom:solid 5px black" | 3
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|-
+|rowspan="3" style="border-bottom:solid 5px black" | [[#OpenELIS|OpenELIS]]
+|Baseline (Jun 2019)
+|style="background-color:#f7abab" | 1
+|style="background-color:#f7e5ab" | 4
+|style="background-color:#96d68f" | 7
+|rowspan="3" style="border-bottom:solid 5px black"| +11
+|-
+|Update (Jun 2020)
+|style="background-color:#f7e5ab" | 6
+|style="background-color:#f7e5ab" | 6
+|style="background-color:#96d68f" | 7
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 6
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 10
+|-
+|-
+|rowspan="1" style="border-bottom:solid 5px black" | [[#OpenEyes|OpenEyes]]
+|style="border-bottom:solid 5px black" | Baseline (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 8
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 8
+|rowspan="1" style="border-bottom:solid 5px black"| N/A
+|-
+|rowspan="2" style="border-bottom:solid 5px black" | [[#OpenFn|OpenFn]]
+|Baseline (July 2021)
+|style="background-color:#f7e5ab" | 6
+|style="background-color:#96d68f" | 7
+|style="background-color:#f7e5ab" | 6
+|rowspan="2" style="border-bottom:solid 5px black"| -1
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 6
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 6
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 6
+|-
+|rowspan="1" style="border-bottom:solid 5px black" | [[#OpenHIE|OpenHIE]]
+|style="border-bottom:solid 5px black" | Baseline (July 2021)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 8
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 6
+|style="background-color:#f7abab; border-bottom:solid 5px black" | 1
+|rowspan="1" style="border-bottom:solid 5px black"| N/A
+|-
+|rowspan="4" style="border-bottom:solid 5px black" | [[#OpenHIM|OpenHIM]]
+|Baseline
+|style="background-color:#f7e5ab" | 6
+|style="background-color:#f7abab" | 3
+|style="background-color:#f7e5ab" | 6
+|rowspan="4" style="border-bottom:solid 5px black"| +2
+|-
+|Update (Jun 2020)
+|style="background-color:#f7e5ab" | 6
+|style="background-color:#f7e5ab" | 5
+|style="background-color:#96d68f" | 7
+|-
+|(July 2021)
+|style="background-color:#f7e5ab" | 6
+|style="background-color:#f7e5ab" | 5
+|style="background-color:#96d68f" | 7
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 6
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 4
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|-
+|rowspan="1" style="border-bottom:solid 5px black" | [[#OpenHexa|OpenHexa]]
+|style="border-bottom:solid 5px black" | Baseline (Sept 2022)
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 5
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 4
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 4
+|rowspan="1" style="border-bottom:solid 5px black"| N/A
+|-
+|rowspan="4" style="border-bottom:solid 5px black" | [[#openIMIS|openIMIS]]
+|Baseline
+|style="background-color:#f7e5ab" | 4
+|style="background-color:#96d68f" | 7
+|style="background-color:#f7e5ab" | 4
+|rowspan="4" style="border-bottom:solid 5px black"| +11
+|-
+|Update (Jun 2020)
+|style="background-color:#f7e5ab" | 6
+|style="background-color:#96d68f" | 10
+|style="background-color:#96d68f" | 8
+|-
+|Update (July 2021)
+|style="background-color:#96d68f" | 7
+|style="background-color:#96d68f" | 10
+|style="background-color:#96d68f" | 8
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 10
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 9
+|-
+|-
+|rowspan="4" style="border-bottom:solid 5px black" | [[#OpenLMIS|OpenLMIS]]
+|Baseline (Aug 2018)
+|style="background-color:#f7e5ab" | 6
+|style="background-color:#96d68f" | 7
+|style="background-color:#96d68f" | 8
+|rowspan="4" style="border-bottom:solid 5px black"| +1
+|-
+|Update (Jan 2020)
+|style="background-color:#f7e5ab" | 6
+|style="background-color:#96d68f" | 7
+|style="background-color:#96d68f" | 9
+|-
+|Update (July 2021)
+|style="background-color:#f7e5ab" | 6
+|style="background-color:#96d68f" | 7
+|style="background-color:#96d68f" | 9
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 8
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|-
+|rowspan="3" style="border-bottom:solid 5px black" | [[#OpenMRS|OpenMRS]]
+|Baseline (Jun 2019)
+|style="background-color:#96d68f" | 7
+|style="background-color:#96d68f" | 7
+|style="background-color:#f7e5ab" | 5
+|rowspan="3" style="border-bottom:solid 5px black"| +1
+|-
+|Update (Sept 2020)
+|style="background-color:#96d68f" | 7
+|style="background-color:#96d68f" | 7
+|style="background-color:#f7e5ab" | 5
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 8
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 5
+|-
+|rowspan="5" style="border-bottom:solid 5px black" | [[#OpenSRP|OpenSRP]]
+|Baseline (Jan 2018)
+|style="background-color:#96d68f" | 7
+|style="background-color:#f7e5ab" | 6
+|style="background-color:#f7e5ab" | 4
+|rowspan="5" style="border-bottom:solid 5px black"| +6
+|-
+|Update (Jun 2019)
+|style="background-color:#96d68f" | 7
+|style="background-color:#96d68f" | 8
+|style="background-color:#f7e5ab" | 4
+|-
+|Update (Jun 2020)
+|style="background-color:#96d68f" | 9
+|style="background-color:#96d68f" | 9
+|style="background-color:#f7e5ab" | 6
+|-
+|Update (March 2021)
+|style="background-color:#96d68f" | 7
+|style="background-color:#96d68f" | 8
+|style="background-color:#f7e5ab" | 6
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 8
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 8
+|-
+|-
+|rowspan="2" style="border-bottom:solid 5px black" | [[#PCMT|PCMT]]
+|Baseline (July 2021)
+|style="background-color:#96d68f"| 8
+|style="background-color:#96d68f"| 9
+|style="background-color:#96d68f"| 7
+|rowspan="2" style="border-bottom:solid 5px black"| -3
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 6
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 8
+|-
+|rowspan="1" style="border-bottom:solid 5px black" | [[#Rapidpro|Rapidpro]]
+|style="border-bottom:solid 5px black" | Baseline (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 9
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 9
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 10
+|rowspan="1" style="border-bottom:solid 5px black"| N/A
+|-
+|rowspan="2" style="border-bottom:solid 5px black" | [[#Reveal|Reveal]]
+|Baseline (July 2021)
+|style="background-color:#f7e5ab" | 5
+|style="background-color:#96d68f" | 7
+|style="background-color:#f7e5ab" | 6
+|rowspan="2" style="border-bottom:solid 5px black"| +3
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 6
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 8
+|-
+|rowspan="2" style="border-bottom:solid 5px black" | [[#SanteMPI|SanteMPI]]
+|Baseline (July 2021)
+|style="background-color:#f7e5ab" | 4
+|style="background-color:#f7e5ab" | 5
+|style="background-color:#96d68f" | 7
+|rowspan="2" style="border-bottom:solid 5px black"| +8
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 10
+|-
+|-
+|rowspan="3" style="border-bottom:solid 5px black" | [[#SORMAS|SORMAS]]
+|Baseline (Jul 2017)
+|style="background-color:#f7e5ab" | 6
+|style="background-color:#f7abab" | 3
+|style="background-color:#f7abab" | 1
+|rowspan="3" style="border-bottom:solid 5px black"| +18
+|-
+|Update
+|style="background-color:#96d68f" | 10
+|style="background-color:#96d68f" | 10
+|style="background-color:#96d68f" | 10
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 10
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 8
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 10
+|-
+|-
+|rowspan="2" style="border-bottom:solid 5px black" | [[#Tamanu|Tamanu]]
+|Baseline (July 2021)
+|style="background-color:#f7e5ab" | 6
+|style="background-color:#f7e5ab" | 5
+|style="background-color:#f7e5ab" | 5
+|rowspan="2" style="border-bottom:solid 5px black"| +5
+|-
+|style="border-bottom:solid 5px black" | Update (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 7
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 6
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 8
+|-
+|rowspan="1" style="border-bottom:solid 5px black" | [[#Tupaia|Tupaia]]
+|style="border-bottom:solid 5px black" | Baseline (Sept 2022)
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 8
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 5
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 8
+|rowspan="1" style="border-bottom:solid 5px black"| N/A
+|-
+|rowspan="1" style="border-bottom:solid 5px black" | [[#Vxnaid|Vxnaid]]
+|style="border-bottom:solid 5px black" | Baseline (Sept 2022)
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 5
+|style="background-color:#f7e5ab; border-bottom:solid 5px black" | 6
+|style="background-color:#96d68f; border-bottom:solid 5px black" | 9
+|rowspan="1" style="border-bottom:solid 5px black"| N/A
+|-
+|}
+
+==Digital Square Maturity Model Details==
+To help identify areas of investments for global goods, Digital Square has developed maturity models for 2 of the types of global goods:
+* [https://docs.google.com/spreadsheets/d/16nZHBsb6Zjsh9T_7Fj7zvMXUspjh39CNSS76UT6WHJU/edit#gid=0 Software Global Good Maturity Model] for Software digital health tools. 
+* [https://docs.google.com/spreadsheets/d/1c975UJiXfSjRywbGRJZJSBaqhCxTpkrGrSnduVJtTtw/edit#gid=0 Content Global Good Maturity Model] for Content Global Goods.
+
+We continue to engage the digital health community, in particular the [https://www.healthdatacollaborative.org/how-we-work/digital-health-interoperability-working-group/ Digital Health and Interoperability Working Group] of the [https://www.healthdatacollaborative.org/ Health Data Collaborative], in the development of this model.
+
+=== Maturity Model: Software Global Good  ===
+Currently, the Software Global Good maturity model is in version 1.4, last updated August 2022. The initial version (1.1) was presented at the [https://www.mhealthworkinggroup.org/content/global-digital-health-forum-2017 Global Digital Health Forum] in December of 2017.
+
+<googlespreadsheet width="100%" height="800" style="width: 100%">1n4wJi6hzk0hwzHm6pgO-E0Y9J1nC4a6T</googlespreadsheet>
+
+=== Maturity Model: Content Global Good  ===
+Currently, the Content Global Good maturity model is in version 1.0, last updated June 2023. 
+
+<googlespreadsheet width="100%" height="800" style="width: 100%">1c975UJiXfSjRywbGRJZJSBaqhCxTpkrGrSnduVJtTtw/htmlembed?widget=true#gid=0</googlespreadsheet>
+
+=Maturity by Global Good=
+
+==Android FHIR SDK==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Sept 2022)
+|-
+! scope="col" colspan="3" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="3" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#96d68f" | Medium
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7abab" | Low
+|-
+! scope="col" colspan="3" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Productization
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#f7abab" | Low
+|-
+|}
+
+==Bahmni==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Jan 2019)
+|Update (Mar 2020)
+|Update (July 2021)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="5" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="5" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Community Governance
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="5" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Scalability
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+|}
+
+==CommCare==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (May 2019)
+|Update (Jun 2020)
+|Update (July 2021)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="5" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Country Strategy
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="5" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Community Governance
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="5" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Scalability
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+|}
+
+==Community Health Toolkit==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Jun 2018)
+|Update (Jun 2020)
+|Update (July 2021)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="5" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Country Strategy
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="5" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="5" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+|}
+
+==DHIS2==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Sep 2018)
+|Update (Mar 2020)
+|Update (July 2021)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="5" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Country Strategy
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="5" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="5" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Scalability
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+|}
+
+==DIVOC==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Sept 2022)
+|-
+! scope="col" colspan="3" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="3" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7abab" | Low
+|-
+! scope="col" colspan="3" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#96d68f" | High
+|-
+|}
+
+==Everwell Hub==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Sept 2022)
+|-
+! scope="col" colspan="3" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="3" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="3" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#96d68f" | High
+|-
+|}
+
+==Geoprism Registry==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Sept 2022)
+|-
+! scope="col" colspan="3" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="3" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | User Documentation
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="3" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Productization
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#96d68f" | High
+|-
+|}
+
+==GOFR==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Jun 2019)
+|Update (Jun 2020)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="5" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7abab" | Low
+|style="background-color:#96d68f" | High
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|-
+! scope="col" colspan="5" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="5" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+|}
+
+==GNU Health==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Sept 2022)
+|-
+! scope="col" colspan="3" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7abab" | Low
+|-
+! scope="col" colspan="3" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Community Governance
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="3" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Scalability
+|style="background-color:#f7e5ab" | Medium
+|-
+|}
+
+==Iaso==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Sept 2022)
+|-
+! scope="col" colspan="3" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="3" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="3" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Security
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Scalability
+|style="background-color:#f7e5ab" | Medium
+|-
+|}
+
+==iHRIS==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Oct 2018)    
+|Update (Jun 2020)
+|Update (July 2021)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="5" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="5" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7abab" | Low
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | User Documentation
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="5" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Productization
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|}
+
+==mHero==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Oct 2019)
+|Update (Jun 2020)
+|Update (Dec 2020)
+|Update (July 2021)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="6" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="6" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="6" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+|}
+
+==ODK==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (July 2021)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="4" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Country Strategy
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="4" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Community Governance
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="4" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+|}
+
+==OpenBoxes==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (July 2021)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="5" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="5" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="5" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|-
+|}
+
+==OpenClinic GA==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Sept 2022)
+|-
+! scope="col" colspan="3" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="3" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="3" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Scalability
+|style="background-color:#96d68f" | High
+|-
+|}
+
+==Open Concept Lab==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Mar 2018)
+|Update (May 2020)
+|Update (July 2021)
+|Update (Sept 2022)
+|Update (Jan 2023)
+|-
+! scope="col" colspan="6" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7abab" | Low
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="6" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="6" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+|}
+
+==OpenCR==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Sept 2022)
+|-
+! scope="col" colspan="5" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7abab" | Low
+|-
+! scope="col" colspan="5" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7abab" | Low
+|-
+! scope="col" colspan="5" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#f7e5ab" | Medium
+|-
+|}
+
+==OpenCRVS==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Mar 2018)
+|Update (May 2020)
+|Update (July 2021)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="5" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#f7abab" | Low
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#f7abab" | Low
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7abab" | Low
+|-
+! scope="col" colspan="5" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7abab" | Low
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#f7abab" | Low
+|-
+! scope="col" colspan="5" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7abab" | Low
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Scalability
+|style="background-color:#f7abab" | Low
+|style="background-color:#96d68f" | High
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|-
+|}
+
+==OpenELIS==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Jun 2019)
+|Update (Jun 2020)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="5" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#f7e5ab" | Low
+|style="background-color:#f7abab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7e5ab" | Low
+|style="background-color:#f7abab" | Medium
+|style="background-color:#f7abab" | Medium
+|-
+! scope="col" colspan="5" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="5" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Scalability
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+|}
+
+==OpenEyes==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Sept 2022)
+|-
+! scope="col" colspan="3" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="3" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Community Governance
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="3" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Productization
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Security
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Scalability
+|style="background-color:#96d68f" | High
+|-
+|}
+
+==OpenFn==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (July 2021)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="3" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="3" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Community Governance
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="3" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Productization
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|-
+|}
+
+==OpenHexa==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Sept 2022)
+|-
+! scope="col" colspan="3" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="3" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7abab" | Low
+|-
+! scope="col" colspan="3" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#f7abab" | Low
+|-
+|}
+
+==OpenHIE (Content Global Good)==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (July 2021)
+|-
+! scope="col" colspan="3" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Country Strategy
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#BFBFBF" | N/A
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#BFBFBF" | N/A
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7abab" | Low
+|-
+! scope="col" colspan="3" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Community Governance
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7abab" | Low
+|-
+! scope="col" colspan="3" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#BFBFBF" | N/A
+|-
+! scope="row" | Software Productization
+|style="background-color:#BFBFBF" | N/A
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#BFBFBF"  | N/A
+|-
+! scope="row" | Security
+|style="background-color:#BFBFBF" | N/A
+|-
+! scope="row" | Scalability
+|style="background-color:#BFBFBF" | N/A
+|-
+|}
+
+==OpenHIM==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline
+|Update (Jun 2020)
+|Update (July 2021)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="5" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="5" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|-
+! scope="col" colspan="5" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7abab" | Low
+|-
+|}
+
+==openIMIS==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline
+|Update (Jun 2020)
+|Update (July 2021)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="5" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="5" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Community Governance
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="5" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Scalability
+|style="background-color:#f7abab" | Low
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+|}
+
+==OpenLMIS==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Aug 2018)
+|Update (Jan 2020)
+|Update (July 2021)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="5" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="5" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Community Governance
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="5" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+|}
+
+==OpenMRS==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Jun 2019)
+|Update (Sept 2020)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="5" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="5" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Community Governance
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="5" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+|}
+
+==OpenSRP==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Jan 2018)
+|Update (Jun 2019)
+|Update (Jun 2020)
+|Update (March 2021)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="6" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="6" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="6" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Scalability
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+|}
+
+==PCMT==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (July 2021)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="3" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#96d68f" | High
+|style="background-color:#f7abab" | Low
+|-
+! scope="col" colspan="5" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#96d68f" | High
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | User Documentation
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="5" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+|}
+
+==RapidPro==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Sept 2022)
+|-
+! scope="col" colspan="3" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Country Strategy
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="3" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Community Governance
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="3" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Scalability
+|style="background-color:#96d68f" | High
+|-
+|}
+
+==Reveal==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (July 2021)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="5" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="5" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Community Governance
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="5" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Scalability
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+|}
+
+==SanteMPI==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (July 2021)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="3" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7abab" | Low
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7abab" | Low
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="5" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="5" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Scalability
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+|}
+
+==SORMAS==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Jun 2017)
+|Update
+|Update (Sept 2022)
+|-
+! scope="col" colspan="5" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#f7abab" | Low
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="5" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7abab" | Low
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Community Governance
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7abab" | Low
+|style="background-color:#96d68f" | High
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7abab" | Low
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="5" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7abab" | Low
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7abab" | Low
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#f7abab" | Low
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Scalability
+|style="background-color:#f7abab" | Low
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+|}
+
+==Tamanu==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (July 2021)
+|Update (Sept 2022)
+|-
+! scope="col" colspan="5" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#96d68f" | High
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="5" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | User Documentation
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="5" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Scalability
+|style="background-color:#f7e5ab" | Medium
+|style="background-color:#f7e5ab" | Medium
+|-
+|}
+
+==Tupaia==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Sept 2022)
+|-
+! scope="col" colspan="3" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="3" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | User Documentation
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="col" colspan="3" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Software Productization
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Security
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Scalability
+|style="background-color:#96d68f" | High
+|-
+|}
+
+==Vxnaid==
+
+{| class="wikitable"
+|-
+| Category
+|Baseline (Sept 2022)
+|-
+! scope="col" colspan="3" | Global Utility
+|-
+! scope="row" | Country Utilization
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Country Strategy
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Digital Health Interventions
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Source Code Accessibility
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Funding and Revenue
+|style="background-color:#f7abab" | Low
+|-
+! scope="col" colspan="3" | Community
+|-
+! scope="row" style="width:200px"| Developer, Contributor, and Implementer Community Engagement
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Community Governance
+|style="background-color:#f7abab" | Low
+|-
+! scope="row" | Software Roadmap
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | User Documentation
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Multi-lingual Support
+|style="background-color:#96d68f" | High
+|-
+! scope="col" colspan="3" | Software
+|-
+! scope="row" | Technical Documentation 
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Software Productization
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Interoperability and Data Accessibility
+|style="background-color:#f7e5ab" | Medium
+|-
+! scope="row" | Security
+|style="background-color:#96d68f" | High
+|-
+! scope="row" | Scalability
+|style="background-color:#96d68f" | High
+|-
+|}
