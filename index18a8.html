@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+
+<!-- Mirrored from wiki.digitalsquare.io/index.php?title=OpenHIE_Testing_Harness_and_Test_Framework&oldid=2467 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 15 Apr 2025 15:49:37 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="UTF-8"/>
+<title>OpenHIE Testing Harness and Test Framework - Digital Square</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"c6f6de1368f9fc3ef270ddf7","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"OpenHIE_Testing_Harness_and_Test_Framework","wgTitle":"OpenHIE Testing Harness and Test Framework","wgCurRevisionId":2467,"wgRevisionId":2467,"wgArticleId":367,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"OpenHIE_Testing_Harness_and_Test_Framework","wgRelevantArticleId":367,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove"
+:[],"wgPageFormsTargetName":null,"wgPageFormsAutocompleteValues":[],"wgPageFormsAutocompleteOnAllChars":false,"wgPageFormsFieldProperties":[],"wgPageFormsCargoFields":[],"wgPageFormsDependentFields":[],"wgPageFormsCalendarValues":[],"wgPageFormsCalendarParams":[],"wgPageFormsCalendarHTML":null,"wgPageFormsGridValues":[],"wgPageFormsGridParams":[],"wgPageFormsContLangYes":null,"wgPageFormsContLangNo":null,"wgPageFormsContLangMonths":[],"wgPageFormsHeightForMinimizingInstances":800,"wgPageFormsShowOnSelect":[],"wgPageFormsScriptPath":"/extensions/PageForms","edgValues":null,"wgPageFormsEDSettings":null,"wgAmericanDates":false};RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","mediawiki.interface.helpers.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.digitalsquare.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","mediawiki.toc","skins.digitalsquare"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="load774a.css?lang=en&amp;modules=mediawiki.action.styles%7Cmediawiki.interface.helpers.styles%7Cmediawiki.ui.button%2Cicon%7Cskins.digitalsquare.styles&amp;only=styles"/>
+<script async="" src="load5ac9.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1"></script>
+<meta name="generator" content="MediaWiki 1.39.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0"/>
+<link rel="icon" href="https://wiki.digitalsquare.io/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="https://wiki.digitalsquare.io/opensearch_desc.php" title="Digital Square (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.digitalsquare.io/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Digital Square Atom feed" href="https://wiki.digitalsquare.io/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-OpenHIE_Testing_Harness_and_Test_Framework rootpage-OpenHIE_Testing_Harness_and_Test_Framework skin-digital-square action-view skin--responsive">
+<div id="nav-strip" role="menubar">
+<div class="max-width">
+    <a href="https://www.digitalsquare.org/" target="_blank">Digital Square Website</a>
+    <a href="https://wiki.digitalsquare.io/" class="over" target="_blank">Digital Square Wiki</a>
+    <a href="https://globalgoodsguidebook.org/" target="_blank">Global Goods Guidebook</a>
+    <a href="https://lib.digitalsquare.io/" target="_blank">Resource Library</a>
+    <a href="https://applications.digitalsquare.io/" target="_blank">Open Application Platform</a>
+</div>
+<div class="mobile-popper">Digital Square Wiki</div>
+</div>
+<div id="top-nav" class="max-width" role="header">
+
+    	<div id="p-logo" class="mw-portlet" role="banner">
+			<a href="https://wiki.digitalsquare.io/index.php/Main_Page">
+				<img src="https://wiki.digitalsquare.io/skins/DigitalSquare/resources/images/logo-digital-square.png" width="90" height="90">
+				
+				<span class="sitetitle">Digital Square</span>
+			</a>
+		</div>
+    
+		<form action="https://wiki.digitalsquare.io/index.php" role="search" class="search-box" id="p-search">
+            <div>
+			<input type="hidden" name="title" value="Special:Search">
+			<h3>
+				<label for="searchInput">Search</label>
+			</h3>
+			<input type="search" name="search" placeholder="Search Digital Square" aria-label="Search Digital Square" autocapitalize="sentences" title="Search Digital Square [f]" accesskey="f" id="searchInput"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" class="searchButton" id="searchButton"/>
+            </div>    
+		</form>
+        
+        <a class="search-icon" href="https://wiki.digitalsquare.io/index.php?title=Special%3ASearch&amp;search=&amp;go=Go" title="Search"></a>
+        <a class="mobile-menu" href="#" title="Show menu"></a>
+        
+</div>
+
+<div class="content-holder max-width">
+<!-- left nav ============================================ -->
+<div id="left-nav" role="navigation">
+<nav>
+</nav>
+    
+    
+<ul class="login" id="p-personal" >
+     <li id="pt-login" class="mw-list-item"><a href="https://wiki.digitalsquare.io/index.php?title=Special:UserLogin&amp;returnto=OpenHIE+Testing+Harness+and+Test+Framework&amp;returntoquery=oldid%3D2467" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li><li id="pt-createaccount" class="mw-list-item"><a href="https://wiki.digitalsquare.io/index.php/Special:RequestAccount" title="You are encouraged to create an account and log in; however, it is not mandatory">Request account</a></li>
+</ul> 
+</div>  
+<div class="page-content">
+<!-- content ============================================ -->
+<div id="mw-wrapper">
+	<div class="mw-body" id="content" role="main">
+		<div id="siteNotice"></div>
+		
+		<div class="mw-indicators mw-body-content">
+		</div>
+          
+		<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">OpenHIE Testing Harness and Test Framework</span></h1>
+        
+		<div class="mw-body-content">
+			<div id="contentSub">
+				<div class="mw-message-box-warning mw-revision mw-message-box"><div id="mw-revision-info">Revision as of 12:36, 27 June 2024 by <a href="https://wiki.digitalsquare.io/index.php?title=User:MarkLiquidThough&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:MarkLiquidThough (page does not exist)">&lt;bdi&gt;MarkLiquidThough&lt;/bdi&gt;</a> <span class="mw-usertoollinks">(<a href="https://wiki.digitalsquare.io/index.php?title=User_talk:MarkLiquidThough&amp;action=edit&amp;redlink=1" class="new mw-usertoollinks-talk" title="User talk:MarkLiquidThough (page does not exist)">talk</a> | <a href="https://wiki.digitalsquare.io/index.php/Special:Contributions/MarkLiquidThough" class="mw-usertoollinks-contribs" title="Special:Contributions/MarkLiquidThough">contribs</a>)</span></div><div id="mw-revision-nav">(<a href="https://wiki.digitalsquare.io/index.php?title=OpenHIE_Testing_Harness_and_Test_Framework&amp;diff=prev&amp;oldid=2467" title="OpenHIE Testing Harness and Test Framework">diff</a>) <a href="https://wiki.digitalsquare.io/index.php?title=OpenHIE_Testing_Harness_and_Test_Framework&amp;direction=prev&amp;oldid=2467" title="OpenHIE Testing Harness and Test Framework">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div></div>
+				
+			</div>
+            
+			<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><p>A Health Information Exchange (HIE) makes the sharing of health data across information systems possible. Like a universal translator, an HIE normalizes data and secures the transmission of health information throughout databases, between facilities, and across regions or countries.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Vision"><span class="tocnumber">2</span> <span class="toctext">Vision</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Roadmap"><span class="tocnumber">3</span> <span class="toctext">Roadmap</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Documentation_and_Architecture"><span class="tocnumber">4</span> <span class="toctext">Documentation and Architecture</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Contributing"><span class="tocnumber">5</span> <span class="toctext">Contributing</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Global_Goods_response_to_COVID-19"><span class="tocnumber">6</span> <span class="toctext">Global Goods response  to COVID-19</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span></h2>
+<p>The OpenHIE community has collaboratively developed a HIE architecture. Several software applications have been identified as reference applications that implement parts of the specification, and they work together as components of the OpenHIE Architecture Specification. There has been no empirical way to test the compliance of these technologies to the architecture specification. This testing approach should evaluate the ability of these tools to meet the
+</p>
+<ul><li>Interoperability requirements</li>
+<li>Functional requirements and to a degree</li>
+<li>Non-functional requirements.</li></ul>
+<p>Digital Square, under its mandate to promote the development, adoption, and reuse of global goods, and helps increase their availability, adaptability, and maturity has contracted Argusoft India Ltd. <a href="https://argusoft.com/" rel="nofollow" class="external autonumber">[1]</a> to develop a harness and complete test framework that will facilitate testing the conformance of technologies to the OpenHIE Architecture specification and health and data content, as specified by WHO SMART Guidelines.
+</p><p>The resulting solution will be leveraged by other software applications and tools, and as such should have a permissive open-source license as it may be leveraged by vendors developing OpenHIE/SMART Guidelines compliant software and other teams, such as the WHO Digital Health Clearinghouse and the local country validation laboratories to test compliance of digital health solutions to WHO SMART Guidelines compliance requirements and/or their defined requirements.
+</p>
+<blockquote>
+<p><b>Testing Harness</b>
+</p><p>Digital Square refers to a test harness as a collection of tools and data used to test an application for
+conformance to a defined specification. The test harness is envisaged to be comprised of the test
+execution engine, test scripts and data used in testing with a clear separation of concerns between
+components.<br />
+</p><p>The testing harness will be comprised of test execution engines and test script repositories. A test
+execution engine is the software used to perform the test, not the software being tested. The test script
+repository is the location where test scripts and cases are stored. The results are to be collated and
+presented as a report.<br />
+</p><p>Not to be confused with a test framework, a testing harness is the collection of software and test data
+used to test a digital health solution (software), whereas test frameworks are the set of processes and
+procedures through which tests are designed and implemented.
+</p>
+</blockquote>
+<h2><span class="mw-headline" id="Vision">Vision</span></h2>
+<p>The testing harness and test framework will use the Gherkin language to describe the test features (cases). It will also at the minimum have the test execution engine, the test scripts and test data (See draft architecture diagram below). The overall technology stack to be used is yet to be decided at this time, and the stack will be shared here after it is agreed upon.
+</p>
+<h2><span class="mw-headline" id="Roadmap">Roadmap</span></h2>
+<p>The project is expected to run through the end of June 2024 according to the timeline below.
+</p><p><a href="https://wiki.digitalsquare.io/index.php/File:Testing-harness-time-line.PNG" class="image" title="Development timeline"><img alt="Development timeline" src="https://wiki.digitalsquare.io/images/2/29/Testing-harness-time-line.PNG" decoding="async" width="800" height="383" /></a>
+</p>
+<h2><span class="mw-headline" id="Documentation_and_Architecture">Documentation and Architecture</span></h2>
+<p>This is the architecture that is currently proposed. This architecture is subject to change as the development progresses.
+</p><p><a href="https://wiki.digitalsquare.io/index.php/File:Testing-harness-architecture.png" class="image" title="Proposed architecture, subject to change."><img alt="Proposed architecture, subject to change." src="https://wiki.digitalsquare.io/images/a/a1/Testing-harness-architecture.png" decoding="async" width="638" height="460" class="thumbborder" /></a>
+</p><p>The documentation will be developed and published on the web. Once complete, the link to the published documentation will be shared here.
+</p>
+<h2><span class="mw-headline" id="Contributing">Contributing</span></h2>
+<p>The development of the testing harness and test framework will be open to the community. The Argusoft team will meet twice a month to provide progress updates and to also get community feedback.
+The meetings will take place at the OpenHIE DevOps calls <a href="https://wiki.ohie.org/display/CP/DevOps+Subcommunity+Calls" rel="nofollow" class="external autonumber">[2]</a>, and on the OpenHIE Architecture and Standards calls <a href="https://wiki.ohie.org/pages/viewpage.action?pageId=11370513" rel="nofollow" class="external autonumber">[3]</a>.
+The community and all other interested stakeholders are highly encouraged to participate.
+</p>
+<h2><span class="mw-headline" id="Global_Goods_response_to_COVID-19">Global Goods response  to COVID-19</span></h2>
+<p><a href="https://wiki.digitalsquare.io/index.php/COVID-19" title="COVID-19">Read more here</a> about the adaptions made by global goods to support COVID-19 response activities.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20250415154051
+Cache expiry: 86400
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.013 seconds
+Real time usage: 0.024 seconds
+Preprocessor visited node count: 20/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key wikidb:pcache:idhash:367-0!canonical and timestamp 20250415154051 and revision id 2467.
+ -->
+</div>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://wiki.digitalsquare.io/index.php?title=OpenHIE_Testing_Harness_and_Test_Framework&amp;oldid=2467">https://wiki.digitalsquare.io/index.php?title=OpenHIE_Testing_Harness_and_Test_Framework&amp;oldid=2467</a>"</div></div>
+		</div>
+        
+		
+	</div>
+
+</div>
+<!-- footer ============================================ -->  
+<div id="footer" class="mw-footer" role="contentinfo" >
+    
+    <div>
+        
+
+        
+    	<div id="mw-navigation">
+    <h4>More on this page</h4>
+            
+		<div>
+			<ul >
+            <li id="ca-nstab-main" class="selected mw-list-item"><a href="https://wiki.digitalsquare.io/index.php/OpenHIE_Testing_Harness_and_Test_Framework" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new mw-list-item"><a href="https://wiki.digitalsquare.io/index.php?title=Talk:OpenHIE_Testing_Harness_and_Test_Framework&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li>
+</ul>
+
+			<ul >
+            
+</ul>
+
+			<ul >
+            <li id="ca-view" class="selected mw-list-item"><a href="https://wiki.digitalsquare.io/index.php/OpenHIE_Testing_Harness_and_Test_Framework">Read</a></li><li id="ca-viewsource" class="mw-list-item"><a href="https://wiki.digitalsquare.io/index.php?title=OpenHIE_Testing_Harness_and_Test_Framework&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="mw-list-item"><a href="https://wiki.digitalsquare.io/index.php?title=OpenHIE_Testing_Harness_and_Test_Framework&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+</ul>
+
+			<ul >
+            
+</ul>
+
+		</div>
+        
+    <h4>Wiki</h4>
+       
+            <ul >
+                        <li id="n-mainpage-description" class="mw-list-item"><a href="https://wiki.digitalsquare.io/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges" class="mw-list-item"><a href="https://wiki.digitalsquare.io/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage" class="mw-list-item"><a href="https://wiki.digitalsquare.io/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>
+            </ul>
+			<ul >
+            <li id="t-whatlinkshere" class="mw-list-item"><a href="https://wiki.digitalsquare.io/index.php/Special:WhatLinksHere/OpenHIE_Testing_Harness_and_Test_Framework" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="https://wiki.digitalsquare.io/index.php/Special:RecentChangesLinked/OpenHIE_Testing_Harness_and_Test_Framework" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages" class="mw-list-item"><a href="https://wiki.digitalsquare.io/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink" class="mw-list-item"><a href="https://wiki.digitalsquare.io/index.php?title=OpenHIE_Testing_Harness_and_Test_Framework&amp;oldid=2467" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info" class="mw-list-item"><a href="https://wiki.digitalsquare.io/index.php?title=OpenHIE_Testing_Harness_and_Test_Framework&amp;action=info" title="More information about this page">Page information</a></li>
+</ul>
+
+			
+		
+	</div>    
+        
+		<ul id="footer-icons">
+<li id="footer-copyrightico"><a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://wiki.digitalsquare.io/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31" loading="lazy"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="https://wiki.digitalsquare.io/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+		<div id="footer-list">
+		<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 27 June 2024, at 12:36.</li>
+<li id="footer-info-copyright">Content is available under <a href="https://creativecommons.org/licenses/by-sa/4.0/" class="external" rel="nofollow">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+</ul>
+
+		<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://wiki.digitalsquare.io/index.php/Digital_Square:Privacy_policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="https://wiki.digitalsquare.io/index.php/Digital_Square:About">About Digital Square</a></li>
+<li id="footer-places-disclaimer"><a href="https://wiki.digitalsquare.io/index.php/Digital_Square:General_disclaimer">Disclaimers</a></li>
+</ul>
+
+		</div>
+        
+</div>
+</div>
+</div>
+<!-- /footer ============================================ -->            
+</div>          
+          
+
+
+
+
+
+
+
+
+<script src="https://www.googletagmanager.com/gtag/js?id=G-44ZQ1NEF7Q" async=""></script><script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-44ZQ1NEF7Q');
+</script>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.013","walltime":"0.024","ppvisitednodes":{"value":20,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20250415154051","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-109135796-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-109135796-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":257});});</script>
+</body>
+
+<!-- Mirrored from wiki.digitalsquare.io/index.php?title=OpenHIE_Testing_Harness_and_Test_Framework&oldid=2467 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 15 Apr 2025 15:49:37 GMT -->
+</html>

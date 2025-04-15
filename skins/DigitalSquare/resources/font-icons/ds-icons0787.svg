@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2023 by original authors @ fontello.com</metadata>
+<defs>
+<font id="ds-icons" horiz-adv-x="1000" >
+<font-face font-family="ds-icons" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="button-caret" unicode="&#xe800;" d="M146-123l-137 128 364 363-364 364 137 118 490-491-490-482z" horiz-adv-x="636" />
+
+<glyph glyph-name="close-but" unicode="&#xe801;" d="M878 89c33-33 33-83 0-117-34-33-84-33-117 0l-272 267-278-278c-33-33-83-33-117 0-33 33-33 83 0 117l278 278-300 300c-33 33-33 83 0 116 34 34 84 34 117 0l294-294 295 289c33 33 83 33 116 0 34-34 34-84 0-117l-288-289 272-272z" horiz-adv-x="1000" />
+
+<glyph glyph-name="caret" unicode="&#xe802;" d="M738-138c-38 0-63 13-88 38l-612 613c-51 50-51 125 0 175s125 50 175 0l525-525 525 525c50 50 125 50 175 0s50-125 0-175l-600-613c-25-25-63-38-100-38z" horiz-adv-x="1500" />
+
+<glyph glyph-name="search" unicode="&#xe803;" d="M1033 0l-166 167c44 66 66 144 66 233 0 244-200 439-439 439-244 0-438-200-438-445 0-244 200-438 438-438 100 0 189 33 262 88l161-161c16-16 39-22 61-22s44 6 61 22c28 28 28 84-6 117z m-539 122c-150 0-272 122-272 272 0 150 122 273 272 273 150 0 273-123 273-273 0-150-123-272-273-272z" horiz-adv-x="1111" />
+
+<glyph glyph-name="mobile-nav" unicode="&#xe804;" d="M5 750c0 40 35 75 75 75h1350c40 0 75-35 75-75s-35-75-75-75h-1350c-40 0-75 35-75 75z m1425-335h-1350c-40 0-75-35-75-75s35-75 75-75h1350c40 0 75 35 75 75s-35 75-75 75z m0-415h-1350c-40 0-75-35-75-75 0-40 35-75 75-75h1350c40 0 75 35 75 75 0 40-35 75-75 75z" horiz-adv-x="1550" />
+</font>
+</defs>
+</svg>
